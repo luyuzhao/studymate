@@ -1,4 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- OCR: 相机权限 -->
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <!-- OCR: 存储权限 (Android < 13) -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <!-- OCR: 图片权限 (Android 13+) -->
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+
     <application
         android:label="studymate"
         android:name="${applicationName}"

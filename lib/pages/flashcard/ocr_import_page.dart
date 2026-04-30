@@ -15,41 +15,82 @@ class OcrImportPage extends ConsumerStatefulWidget {
 
 class _OcrImportPageState extends ConsumerState<OcrImportPage> {
   final _picker = ImagePicker();
-  final _recognizer = TextRecognizer(script: TextRecognitionScript.chinese);
+  TextRecognizer? _recognizer;
   String _recognizedText = '';
   bool _isProcessing = false;
   File? _imageFile;
+  String _errorMsg = '';
+
+  /// 懒初始化识别器，优先中文，失败则回退拉丁
+  TextRecognizer _getRecognizer() {
+    _recognizer ??= TextRecognizer(script: TextRecognitionScript.chinese);
+    return _recognizer!;
+  }
 
   @override
   void dispose() {
-    _recognizer.close();
+    _recognizer?.close();
     super.dispose();
   }
 
   Future<void> _pickAndRecognize(ImageSource source) async {
+    setState(() {
+      _isProcessing = true;
+      _errorMsg = '';
+    });
+
     try {
       final picked = await _picker.pickImage(source: source, maxWidth: 1920);
-      if (picked == null) return;
+      if (picked == null) {
+        setState(() => _isProcessing = false);
+        return;
+      }
 
-      setState(() {
-        _isProcessing = true;
-        _imageFile = File(picked.path);
-      });
+      setState(() => _imageFile = File(picked.path));
 
       final inputImage = InputImage.fromFilePath(picked.path);
-      final result = await _recognizer.processImage(inputImage);
 
-      setState(() {
-        _recognizedText = result.text;
-        _isProcessing = false;
-      });
-    } catch (e) {
-      setState(() => _isProcessing = false);
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('识别失败: $e')),
-        );
+      // 尝试中文识别
+      String text = '';
+      try {
+        final result = await _getRecognizer().processImage(inputImage);
+        text = result.text;
+      } catch (_) {
+        // 中文模型失败，回退到默认拉丁识别
+        _recognizer?.close();
+        _recognizer = TextRecognizer();
+        try {
+          final result = await _recognizer!.processImage(inputImage);
+          text = result.text;
+        } catch (e2) {
+          throw Exception('文字识别失败: $e2');
+        }
       }
+
+      if (!mounted) return;
+      setState(() {
+        _recognizedText = text;
+        _isProcessing = false;
+        if (text.isEmpty) _errorMsg = '未识别到文字，请尝试更清晰的图片';
+      });
+    } on Exception catch (e) {
+      if (!mounted) return;
+      setState(() {
+        _isProcessing = false;
+        _errorMsg = e.toString().replaceFirst('Exception: ', '');
+      });
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text(_errorMsg)),
+      );
+    } catch (e) {
+      if (!mounted) return;
+      setState(() {
+        _isProcessing = false;
+        _errorMsg = '发生未知错误，请重试';
+      });
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('识别失败: $e')),
+      );
     }
   }
 
@@ -217,6 +258,24 @@ class _OcrImportPageState extends ConsumerState<OcrImportPage> {
                 ),
               ]),
             ],
+
+            // ─── 错误提示 ───
+            if (_errorMsg.isNotEmpty && !_isProcessing)
+              Container(
+                width: double.infinity,
+                margin: const EdgeInsets.only(bottom: 16),
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: cs.errorContainer,
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: Row(children: [
+                  Icon(Icons.error_outline, color: cs.onErrorContainer),
+                  const SizedBox(width: 12),
+                  Expanded(child: Text(_errorMsg,
+                    style: TextStyle(color: cs.onErrorContainer))),
+                ]),
+              ),
 
             // ─── 空状态 ───
             if (_recognizedText.isEmpty && !_isProcessing && _imageFile == null)
