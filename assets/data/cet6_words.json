@@ -1,0 +1,6008 @@
+{
+    "color":  "#1565C0",
+    "icon":  "language",
+    "description":  "CET-6 English Vocabulary",
+    "name":  "英语六级核心词汇",
+    "cards":  [
+                  {
+                      "front":  "abandonment",
+                      "back":  "n. 放弃"
+                  },
+                  {
+                      "front":  "abnormally",
+                      "back":  "adv. 不正常的"
+                  },
+                  {
+                      "front":  "absolutely",
+                      "back":  "adv. 当然"
+                  },
+                  {
+                      "front":  "abstract",
+                      "back":  "adj. 抽象的"
+                  },
+                  {
+                      "front":  "abuse",
+                      "back":  "n. 虐待; v. 滥用"
+                  },
+                  {
+                      "front":  "accelerate",
+                      "back":  "v. 加速"
+                  },
+                  {
+                      "front":  "accomplish",
+                      "back":  "v. 实现"
+                  },
+                  {
+                      "front":  "accountant",
+                      "back":  "n. 会计"
+                  },
+                  {
+                      "front":  "accrue",
+                      "back":  "v. 积累"
+                  },
+                  {
+                      "front":  "accurate",
+                      "back":  "adj. 精确的"
+                  },
+                  {
+                      "front":  "accuse",
+                      "back":  "v. 指控"
+                  },
+                  {
+                      "front":  "accustom",
+                      "back":  "v. 使习惯"
+                  },
+                  {
+                      "front":  "achieve",
+                      "back":  "v. 达到，实现"
+                  },
+                  {
+                      "front":  "acquaintance",
+                      "back":  "n. 熟人"
+                  },
+                  {
+                      "front":  "activate",
+                      "back":  "v. 激活"
+                  },
+                  {
+                      "front":  "acutely",
+                      "back":  "adv. 敏锐地"
+                  },
+                  {
+                      "front":  "addict",
+                      "back":  "v. 上瘾，沉溺"
+                  },
+                  {
+                      "front":  "address",
+                      "back":  "v. 解决"
+                  },
+                  {
+                      "front":  "administration",
+                      "back":  "n. 管理，政府"
+                  },
+                  {
+                      "front":  "adopt",
+                      "back":  "v. 采纳"
+                  },
+                  {
+                      "front":  "adventure",
+                      "back":  "n. 冒险"
+                  },
+                  {
+                      "front":  "adventurer",
+                      "back":  "n. 冒险者"
+                  },
+                  {
+                      "front":  "adverse",
+                      "back":  "adj. 相反的，敌对的"
+                  },
+                  {
+                      "front":  "adversely",
+                      "back":  "adv. 不利地"
+                  },
+                  {
+                      "front":  "affection",
+                      "back":  "n. 喜爱"
+                  },
+                  {
+                      "front":  "agenda",
+                      "back":  "n. 议程"
+                  },
+                  {
+                      "front":  "aggravate",
+                      "back":  "v. 加重，加剧"
+                  },
+                  {
+                      "front":  "agonize",
+                      "back":  "v. 使痛苦"
+                  },
+                  {
+                      "front":  "aid",
+                      "back":  "v. 援助，有助于"
+                  },
+                  {
+                      "front":  "alert",
+                      "back":  "adj. 机警的; v. 提醒"
+                  },
+                  {
+                      "front":  "alien",
+                      "back":  "adj. 陌生的"
+                  },
+                  {
+                      "front":  "allergic",
+                      "back":  "adj. 过敏的"
+                  },
+                  {
+                      "front":  "alternative",
+                      "back":  "n. 代替品"
+                  },
+                  {
+                      "front":  "analytical",
+                      "back":  "adj. 分析的"
+                  },
+                  {
+                      "front":  "ancient",
+                      "back":  "adj. 古代的"
+                  },
+                  {
+                      "front":  "ankle",
+                      "back":  "n. 脚踝"
+                  },
+                  {
+                      "front":  "anonymous",
+                      "back":  "adj. 匿名的"
+                  },
+                  {
+                      "front":  "anticipate",
+                      "back":  "v. 期望，预期"
+                  },
+                  {
+                      "front":  "anxiety",
+                      "back":  "n. 焦虑"
+                  },
+                  {
+                      "front":  "apartment",
+                      "back":  "n. 公寓"
+                  },
+                  {
+                      "front":  "apathy",
+                      "back":  "n. 冷漠"
+                  },
+                  {
+                      "front":  "apologize",
+                      "back":  "v. 道歉"
+                  },
+                  {
+                      "front":  "applicable",
+                      "back":  "adj. 可应用的"
+                  },
+                  {
+                      "front":  "applicant",
+                      "back":  "n. 申请者"
+                  },
+                  {
+                      "front":  "appoint",
+                      "back":  "v. 任命"
+                  },
+                  {
+                      "front":  "appreciative",
+                      "back":  "adj. 表示赞赏的，感谢的"
+                  },
+                  {
+                      "front":  "approach",
+                      "back":  "n. 方法"
+                  },
+                  {
+                      "front":  "appropriate",
+                      "back":  "adj. 适当的"
+                  },
+                  {
+                      "front":  "approve",
+                      "back":  "v. 赞同"
+                  },
+                  {
+                      "front":  "approximately",
+                      "back":  "adv. 大约"
+                  },
+                  {
+                      "front":  "arm",
+                      "back":  "v. 装备，武装"
+                  },
+                  {
+                      "front":  "arouse",
+                      "back":  "v. 唤起"
+                  },
+                  {
+                      "front":  "arrogant",
+                      "back":  "adj. 傲慢无礼的"
+                  },
+                  {
+                      "front":  "artificial",
+                      "back":  "adj. 人造的，虚伪的"
+                  },
+                  {
+                      "front":  "aspect",
+                      "back":  "n. 方面"
+                  },
+                  {
+                      "front":  "assassinate",
+                      "back":  "v. 刺杀，暗杀"
+                  },
+                  {
+                      "front":  "assemble",
+                      "back":  "v. 收集，组装"
+                  },
+                  {
+                      "front":  "assessment",
+                      "back":  "n. 评估，评价"
+                  },
+                  {
+                      "front":  "association",
+                      "back":  "n. 联系"
+                  },
+                  {
+                      "front":  "athletic",
+                      "back":  "adj. 运动的，运动员的"
+                  },
+                  {
+                      "front":  "atmosphere",
+                      "back":  "n. 气氛，空气"
+                  },
+                  {
+                      "front":  "attendant",
+                      "back":  "n. 服务人员"
+                  },
+                  {
+                      "front":  "authorities",
+                      "back":  "n. 当局"
+                  },
+                  {
+                      "front":  "authority",
+                      "back":  "n. 权威"
+                  },
+                  {
+                      "front":  "authorization",
+                      "back":  "n. 授权"
+                  },
+                  {
+                      "front":  "automatic",
+                      "back":  "adj. 自动的"
+                  },
+                  {
+                      "front":  "auxiliary",
+                      "back":  "adj. 辅助的"
+                  },
+                  {
+                      "front":  "available",
+                      "back":  "adj. 可获得的，可利用的"
+                  },
+                  {
+                      "front":  "awareness",
+                      "back":  "n. 意识"
+                  },
+                  {
+                      "front":  "awesome",
+                      "back":  "adj. 极好的，令人敬畏的"
+                  },
+                  {
+                      "front":  "backup",
+                      "back":  "n. 后补，援助"
+                  },
+                  {
+                      "front":  "bacteria",
+                      "back":  "n. 细菌"
+                  },
+                  {
+                      "front":  "ballet",
+                      "back":  "n. 芭蕾"
+                  },
+                  {
+                      "front":  "barely",
+                      "back":  "adv. 几乎不，仅仅"
+                  },
+                  {
+                      "front":  "barrier",
+                      "back":  "n. 障碍，阻碍"
+                  },
+                  {
+                      "front":  "battery",
+                      "back":  "n. 电池"
+                  },
+                  {
+                      "front":  "battle",
+                      "back":  "n. 激战，战役"
+                  },
+                  {
+                      "front":  "bias",
+                      "back":  "n. 偏见"
+                  },
+                  {
+                      "front":  "biography",
+                      "back":  "n. 自传"
+                  },
+                  {
+                      "front":  "bitter",
+                      "back":  "adj. 痛苦的"
+                  },
+                  {
+                      "front":  "bizarre",
+                      "back":  "adj. 古怪的；奇怪的"
+                  },
+                  {
+                      "front":  "blame",
+                      "back":  "v. 谴责"
+                  },
+                  {
+                      "front":  "blouse",
+                      "back":  "n. 衬衫"
+                  },
+                  {
+                      "front":  "blueprint",
+                      "back":  "n. 蓝图，设计图"
+                  },
+                  {
+                      "front":  "board",
+                      "back":  "n. 董事会"
+                  },
+                  {
+                      "front":  "boom",
+                      "back":  "n. 繁荣"
+                  },
+                  {
+                      "front":  "boost",
+                      "back":  "v. 提高"
+                  },
+                  {
+                      "front":  "botanical",
+                      "back":  "adj. 植物学的"
+                  },
+                  {
+                      "front":  "bother",
+                      "back":  "v. 困扰"
+                  },
+                  {
+                      "front":  "branch",
+                      "back":  "n. 分支，分公司"
+                  },
+                  {
+                      "front":  "breakthrough",
+                      "back":  "n. 突破性进展"
+                  },
+                  {
+                      "front":  "breed",
+                      "back":  "v. 繁殖；导致"
+                  },
+                  {
+                      "front":  "breezy",
+                      "back":  "adj. 轻松愉快的"
+                  },
+                  {
+                      "front":  "bribe",
+                      "back":  "v. 贿赂"
+                  },
+                  {
+                      "front":  "bridge",
+                      "back":  "v. 缩小；架桥于…之上"
+                  },
+                  {
+                      "front":  "bruise",
+                      "back":  "v. 使碰伤，擦伤"
+                  },
+                  {
+                      "front":  "brutal",
+                      "back":  "adj. 残酷的"
+                  },
+                  {
+                      "front":  "buck",
+                      "back":  "v. 反对; n. 美元"
+                  },
+                  {
+                      "front":  "burden",
+                      "back":  "n. 负担"
+                  },
+                  {
+                      "front":  "bureaucracy",
+                      "back":  "n. 官僚主义"
+                  },
+                  {
+                      "front":  "burial",
+                      "back":  "n. 埋葬"
+                  },
+                  {
+                      "front":  "calculation",
+                      "back":  "n. 计算"
+                  },
+                  {
+                      "front":  "calorie",
+                      "back":  "n. 卡路里"
+                  },
+                  {
+                      "front":  "campaign",
+                      "back":  "n. 活动"
+                  },
+                  {
+                      "front":  "cancel",
+                      "back":  "v. 取消"
+                  },
+                  {
+                      "front":  "capable",
+                      "back":  "adj. 有能力的"
+                  },
+                  {
+                      "front":  "capacity",
+                      "back":  "n. 能力，容量"
+                  },
+                  {
+                      "front":  "capital",
+                      "back":  "adj. 资金的，资本的"
+                  },
+                  {
+                      "front":  "capture",
+                      "back":  "v. 捕捉"
+                  },
+                  {
+                      "front":  "cast",
+                      "back":  "v. 投掷，扔"
+                  },
+                  {
+                      "front":  "casualty",
+                      "back":  "n. 伤亡人数"
+                  },
+                  {
+                      "front":  "category",
+                      "back":  "n. 种类"
+                  },
+                  {
+                      "front":  "cautious",
+                      "back":  "adj. 谨慎的"
+                  },
+                  {
+                      "front":  "chain",
+                      "back":  "n. 连锁店"
+                  },
+                  {
+                      "front":  "chaos",
+                      "back":  "n. 混乱"
+                  },
+                  {
+                      "front":  "character",
+                      "back":  "n. 角色"
+                  },
+                  {
+                      "front":  "check",
+                      "back":  "v. 检查；阻止"
+                  },
+                  {
+                      "front":  "chronicle",
+                      "back":  "v. 记录"
+                  },
+                  {
+                      "front":  "circulation",
+                      "back":  "n. 发行量"
+                  },
+                  {
+                      "front":  "circumstance",
+                      "back":  "n. 情况，环境"
+                  },
+                  {
+                      "front":  "citation",
+                      "back":  "n. 引文"
+                  },
+                  {
+                      "front":  "claim",
+                      "back":  "v. 索取，声称"
+                  },
+                  {
+                      "front":  "clarify",
+                      "back":  "v. 澄清，明确"
+                  },
+                  {
+                      "front":  "classify",
+                      "back":  "v. 分类"
+                  },
+                  {
+                      "front":  "clause",
+                      "back":  "n. 条款"
+                  },
+                  {
+                      "front":  "clue",
+                      "back":  "n. 线索"
+                  },
+                  {
+                      "front":  "coastal",
+                      "back":  "adj. 海滨的"
+                  },
+                  {
+                      "front":  "code",
+                      "back":  "n. 代号，密码"
+                  },
+                  {
+                      "front":  "collaborative",
+                      "back":  "adj. 合作的"
+                  },
+                  {
+                      "front":  "collapse",
+                      "back":  "v. 坍塌，崩塌"
+                  },
+                  {
+                      "front":  "collective",
+                      "back":  "adj. 共同的"
+                  },
+                  {
+                      "front":  "collide",
+                      "back":  "v. 撞击，碰撞"
+                  },
+                  {
+                      "front":  "commerce",
+                      "back":  "n. 商业"
+                  },
+                  {
+                      "front":  "commitment",
+                      "back":  "n. 承诺"
+                  },
+                  {
+                      "front":  "commodity",
+                      "back":  "n. 商品"
+                  },
+                  {
+                      "front":  "compartment",
+                      "back":  "n. 车厢, 隔间"
+                  },
+                  {
+                      "front":  "compel",
+                      "back":  "v. 强迫"
+                  },
+                  {
+                      "front":  "compelling",
+                      "back":  "adj. 引人注目的"
+                  },
+                  {
+                      "front":  "compensate",
+                      "back":  "v. 弥补"
+                  },
+                  {
+                      "front":  "competence",
+                      "back":  "n. 能力"
+                  },
+                  {
+                      "front":  "complaint",
+                      "back":  "n. 抱怨，投诉"
+                  },
+                  {
+                      "front":  "complicated",
+                      "back":  "adj. 复杂的"
+                  },
+                  {
+                      "front":  "comprehensive",
+                      "back":  "adj. 综合的，全面的"
+                  },
+                  {
+                      "front":  "concession",
+                      "back":  "n. 妥协"
+                  },
+                  {
+                      "front":  "conclusive",
+                      "back":  "adj. 得出结论的"
+                  },
+                  {
+                      "front":  "concrete",
+                      "back":  "adj. 具体的"
+                  },
+                  {
+                      "front":  "conduct",
+                      "back":  "v. 引导，管理"
+                  },
+                  {
+                      "front":  "confine",
+                      "back":  "v. 限制"
+                  },
+                  {
+                      "front":  "conflict",
+                      "back":  "n. 冲突"
+                  },
+                  {
+                      "front":  "conformity",
+                      "back":  "n. 一致"
+                  },
+                  {
+                      "front":  "confrontational",
+                      "back":  "adj. 对抗的，有敌意的"
+                  },
+                  {
+                      "front":  "consensus",
+                      "back":  "n. 共识，一致"
+                  },
+                  {
+                      "front":  "conservation",
+                      "back":  "n. 保护"
+                  },
+                  {
+                      "front":  "conservative",
+                      "back":  "adj. 保守的"
+                  },
+                  {
+                      "front":  "considerable",
+                      "back":  "adj. 相当多的"
+                  },
+                  {
+                      "front":  "console",
+                      "back":  "v. 安慰"
+                  },
+                  {
+                      "front":  "constant",
+                      "back":  "adj. 不断的"
+                  },
+                  {
+                      "front":  "construction",
+                      "back":  "n. 建筑"
+                  },
+                  {
+                      "front":  "consultancy",
+                      "back":  "n. 咨询"
+                  },
+                  {
+                      "front":  "consumption",
+                      "back":  "n. 消费, 消耗"
+                  },
+                  {
+                      "front":  "contamination",
+                      "back":  "n. 污染"
+                  },
+                  {
+                      "front":  "content",
+                      "back":  "adj. 满意的"
+                  },
+                  {
+                      "front":  "contention",
+                      "back":  "n. 争论"
+                  },
+                  {
+                      "front":  "contrary",
+                      "back":  "adj. 相反的"
+                  },
+                  {
+                      "front":  "contribute",
+                      "back":  "v. 有助于"
+                  },
+                  {
+                      "front":  "contribution",
+                      "back":  "n. 贡献"
+                  },
+                  {
+                      "front":  "controversy",
+                      "back":  "n. 争议"
+                  },
+                  {
+                      "front":  "conventional",
+                      "back":  "adj. 传统的"
+                  },
+                  {
+                      "front":  "convert",
+                      "back":  "v. 转换，改变"
+                  },
+                  {
+                      "front":  "convict",
+                      "back":  "v. 证明……有罪"
+                  },
+                  {
+                      "front":  "convince",
+                      "back":  "v. 使……相信"
+                  },
+                  {
+                      "front":  "coordination",
+                      "back":  "n. 协调"
+                  },
+                  {
+                      "front":  "corruption",
+                      "back":  "n. 腐败"
+                  },
+                  {
+                      "front":  "counsel",
+                      "back":  "v. 建议，忠告"
+                  },
+                  {
+                      "front":  "counselor",
+                      "back":  "n. 咨询顾问"
+                  },
+                  {
+                      "front":  "countermeasure",
+                      "back":  "n. 对策"
+                  },
+                  {
+                      "front":  "cover",
+                      "back":  "v. 报道"
+                  },
+                  {
+                      "front":  "coverage",
+                      "back":  "n. 报道"
+                  },
+                  {
+                      "front":  "criminal",
+                      "back":  "adj. 犯罪的; n. 罪犯"
+                  },
+                  {
+                      "front":  "criteria",
+                      "back":  "n. 标准"
+                  },
+                  {
+                      "front":  "critical",
+                      "back":  "adj. 挑剔的，批评的；关键的"
+                  },
+                  {
+                      "front":  "criticism",
+                      "back":  "n. 批评"
+                  },
+                  {
+                      "front":  "crucial",
+                      "back":  "adj. 关键的"
+                  },
+                  {
+                      "front":  "curb",
+                      "back":  "v. 限制，控制"
+                  },
+                  {
+                      "front":  "currency",
+                      "back":  "n. 货币"
+                  },
+                  {
+                      "front":  "dare",
+                      "back":  "v. 勇敢，敢于做"
+                  },
+                  {
+                      "front":  "debris",
+                      "back":  "n. 残骸，碎片"
+                  },
+                  {
+                      "front":  "decent",
+                      "back":  "adj. 体面的"
+                  },
+                  {
+                      "front":  "decisive",
+                      "back":  "adj. 决定性的"
+                  },
+                  {
+                      "front":  "decline",
+                      "back":  "v. 拒绝"
+                  },
+                  {
+                      "front":  "deem",
+                      "back":  "v. 认为"
+                  },
+                  {
+                      "front":  "defect",
+                      "back":  "n. 缺点"
+                  },
+                  {
+                      "front":  "defensive",
+                      "back":  "adj. 防守的，防御的"
+                  },
+                  {
+                      "front":  "deficient",
+                      "back":  "adj. 不足的，缺乏的"
+                  },
+                  {
+                      "front":  "deficit",
+                      "back":  "n. 赤字"
+                  },
+                  {
+                      "front":  "defy",
+                      "back":  "v. 违背，违抗"
+                  },
+                  {
+                      "front":  "deliberate",
+                      "back":  "adj. 故意的"
+                  },
+                  {
+                      "front":  "delicate",
+                      "back":  "adj. 精细的，细微的"
+                  },
+                  {
+                      "front":  "deliver",
+                      "back":  "v. 发表，递送"
+                  },
+                  {
+                      "front":  "democracy",
+                      "back":  "n. 民主"
+                  },
+                  {
+                      "front":  "denationalize",
+                      "back":  "v. 使非国有化"
+                  },
+                  {
+                      "front":  "deny",
+                      "back":  "v. 否认"
+                  },
+                  {
+                      "front":  "deprive",
+                      "back":  "v. 剥夺"
+                  },
+                  {
+                      "front":  "derail",
+                      "back":  "v. 脱轨"
+                  },
+                  {
+                      "front":  "derive",
+                      "back":  "v. 获得"
+                  },
+                  {
+                      "front":  "descendant",
+                      "back":  "n. 子孙后代"
+                  },
+                  {
+                      "front":  "descriptive",
+                      "back":  "adj. 描写的，描述的"
+                  },
+                  {
+                      "front":  "deserve",
+                      "back":  "v. 值得"
+                  },
+                  {
+                      "front":  "desperate",
+                      "back":  "adj. 绝望的，不顾一切的"
+                  },
+                  {
+                      "front":  "destination",
+                      "back":  "n. 目的地"
+                  },
+                  {
+                      "front":  "destructive",
+                      "back":  "adj. 破坏性的，毁灭性的"
+                  },
+                  {
+                      "front":  "detached",
+                      "back":  "adj. 冷漠的，超然的"
+                  },
+                  {
+                      "front":  "detect",
+                      "back":  "v. 发现"
+                  },
+                  {
+                      "front":  "detective",
+                      "back":  "n. 侦探"
+                  },
+                  {
+                      "front":  "diligence",
+                      "back":  "n. 勤奋"
+                  },
+                  {
+                      "front":  "dim",
+                      "back":  "adj. 暗淡的；愚蠢的"
+                  },
+                  {
+                      "front":  "diminish",
+                      "back":  "v. 减少"
+                  },
+                  {
+                      "front":  "disadvantage",
+                      "back":  "n. 缺点，不利条件"
+                  },
+                  {
+                      "front":  "disappear",
+                      "back":  "v. 消失"
+                  },
+                  {
+                      "front":  "disarm",
+                      "back":  "v. 解除，消除"
+                  },
+                  {
+                      "front":  "discipline",
+                      "back":  "n. 学科"
+                  },
+                  {
+                      "front":  "disconnect",
+                      "back":  "v. 断开"
+                  },
+                  {
+                      "front":  "discourage",
+                      "back":  "v. 阻止；使气馁"
+                  },
+                  {
+                      "front":  "disengagement",
+                      "back":  "n. 分离，疏离感"
+                  },
+                  {
+                      "front":  "dishonest",
+                      "back":  "adj. 不诚实的"
+                  },
+                  {
+                      "front":  "dismiss",
+                      "back":  "v. 忽视"
+                  },
+                  {
+                      "front":  "dispatch",
+                      "back":  "v. 发送，派遣"
+                  },
+                  {
+                      "front":  "disproportionately",
+                      "back":  "adv. 比例不均地，不成比例地"
+                  },
+                  {
+                      "front":  "disservice",
+                      "back":  "n. 帮倒忙，危害"
+                  },
+                  {
+                      "front":  "distinctive",
+                      "back":  "adj. 与众不同的"
+                  },
+                  {
+                      "front":  "distort",
+                      "back":  "v. 扭曲"
+                  },
+                  {
+                      "front":  "distribution",
+                      "back":  "n. 分布，分配"
+                  },
+                  {
+                      "front":  "diverse",
+                      "back":  "adj. 各种各样的"
+                  },
+                  {
+                      "front":  "diversion",
+                      "back":  "n. 转移；娱乐"
+                  },
+                  {
+                      "front":  "diversity",
+                      "back":  "n. 多样性"
+                  },
+                  {
+                      "front":  "divert",
+                      "back":  "v. 转移"
+                  },
+                  {
+                      "front":  "dividend",
+                      "back":  "n. 分红，红利"
+                  },
+                  {
+                      "front":  "documentary",
+                      "back":  "n. 纪录片"
+                  },
+                  {
+                      "front":  "dolphin",
+                      "back":  "n. 海豚"
+                  },
+                  {
+                      "front":  "domestic",
+                      "back":  "adj. 国内的"
+                  },
+                  {
+                      "front":  "dominate",
+                      "back":  "v. 主导，主宰"
+                  },
+                  {
+                      "front":  "donor",
+                      "back":  "n. 捐赠者"
+                  },
+                  {
+                      "front":  "dorm",
+                      "back":  "n. 宿舍"
+                  },
+                  {
+                      "front":  "dramatically",
+                      "back":  "adv. 大幅度地；戏剧性地"
+                  },
+                  {
+                      "front":  "drastically",
+                      "back":  "adv. 激烈地，猛烈地"
+                  },
+                  {
+                      "front":  "drift",
+                      "back":  "v. 漂流"
+                  },
+                  {
+                      "front":  "dropout",
+                      "back":  "n. 辍学"
+                  },
+                  {
+                      "front":  "drought",
+                      "back":  "n. 干旱"
+                  },
+                  {
+                      "front":  "drown",
+                      "back":  "v. 溺水"
+                  },
+                  {
+                      "front":  "dweller",
+                      "back":  "n. 居住者"
+                  },
+                  {
+                      "front":  "dysfunction",
+                      "back":  "n. 失灵"
+                  },
+                  {
+                      "front":  "eccentric",
+                      "back":  "adj. 古怪的"
+                  },
+                  {
+                      "front":  "ecological",
+                      "back":  "adj. 生态学的"
+                  },
+                  {
+                      "front":  "edit",
+                      "back":  "v. 剪辑，编辑"
+                  },
+                  {
+                      "front":  "election",
+                      "back":  "n. 选举"
+                  },
+                  {
+                      "front":  "eliminate",
+                      "back":  "v. 消除"
+                  },
+                  {
+                      "front":  "elite",
+                      "back":  "n. 精英"
+                  },
+                  {
+                      "front":  "eloquent",
+                      "back":  "adj. 口才好的，雄辩的"
+                  },
+                  {
+                      "front":  "emerge",
+                      "back":  "v. 出现"
+                  },
+                  {
+                      "front":  "emphasize",
+                      "back":  "v. 强调"
+                  },
+                  {
+                      "front":  "encounter",
+                      "back":  "v. 遭遇"
+                  },
+                  {
+                      "front":  "encourage",
+                      "back":  "v. 鼓励"
+                  },
+                  {
+                      "front":  "endless",
+                      "back":  "adj. 无限的，没完没了的"
+                  },
+                  {
+                      "front":  "enforce",
+                      "back":  "v. 强迫，迫使"
+                  },
+                  {
+                      "front":  "engage",
+                      "back":  "v. 忙于，从事；雇佣"
+                  },
+                  {
+                      "front":  "enormous",
+                      "back":  "adj. 巨大的"
+                  },
+                  {
+                      "front":  "enrich",
+                      "back":  "v. 丰富，使富裕"
+                  },
+                  {
+                      "front":  "enrollment",
+                      "back":  "n. 入学人数"
+                  },
+                  {
+                      "front":  "enthusiastic",
+                      "back":  "adj. 热情的"
+                  },
+                  {
+                      "front":  "entrepreneurship",
+                      "back":  "n. 企业管理"
+                  },
+                  {
+                      "front":  "epidemic",
+                      "back":  "n. 流行病"
+                  },
+                  {
+                      "front":  "eradicate",
+                      "back":  "v. 根除"
+                  },
+                  {
+                      "front":  "erect",
+                      "back":  "v. 建立"
+                  },
+                  {
+                      "front":  "erroneous",
+                      "back":  "adj. 错误的"
+                  },
+                  {
+                      "front":  "erupt",
+                      "back":  "v. 喷出, 爆发"
+                  },
+                  {
+                      "front":  "essential",
+                      "back":  "adj. 本质的，必须的"
+                  },
+                  {
+                      "front":  "esteem",
+                      "back":  "v. 尊重"
+                  },
+                  {
+                      "front":  "ethnic",
+                      "back":  "adj. 种族的"
+                  },
+                  {
+                      "front":  "evolution",
+                      "back":  "n. 演变；进化；发展"
+                  },
+                  {
+                      "front":  "exaggerate",
+                      "back":  "v. 夸张"
+                  },
+                  {
+                      "front":  "exceed",
+                      "back":  "v. 超过"
+                  },
+                  {
+                      "front":  "exceptional",
+                      "back":  "adj. 例外的"
+                  },
+                  {
+                      "front":  "excess",
+                      "back":  "n. 过量，过度"
+                  },
+                  {
+                      "front":  "excessive",
+                      "back":  "adj. 过度的"
+                  },
+                  {
+                      "front":  "executive",
+                      "back":  "n. 执行官"
+                  },
+                  {
+                      "front":  "exert",
+                      "back":  "v. 施加"
+                  },
+                  {
+                      "front":  "exotic",
+                      "back":  "adj. 异域的，外国的"
+                  },
+                  {
+                      "front":  "expansion",
+                      "back":  "n. 扩大"
+                  },
+                  {
+                      "front":  "expectation",
+                      "back":  "n. 期望"
+                  },
+                  {
+                      "front":  "expedition",
+                      "back":  "n. 探险，远征"
+                  },
+                  {
+                      "front":  "expenditure",
+                      "back":  "n. 费用，花销"
+                  },
+                  {
+                      "front":  "expertise",
+                      "back":  "n. 专业知识"
+                  },
+                  {
+                      "front":  "extend",
+                      "back":  "v. 延伸；延期"
+                  },
+                  {
+                      "front":  "extent",
+                      "back":  "n. 程度"
+                  },
+                  {
+                      "front":  "extinction",
+                      "back":  "n. 灭绝"
+                  },
+                  {
+                      "front":  "extreme",
+                      "back":  "adj. 极端的"
+                  },
+                  {
+                      "front":  "eyewitness",
+                      "back":  "n. 目击者"
+                  },
+                  {
+                      "front":  "facility",
+                      "back":  "n. 设施"
+                  },
+                  {
+                      "front":  "faculty",
+                      "back":  "n. 教工，教员"
+                  },
+                  {
+                      "front":  "fade",
+                      "back":  "v. 褪色"
+                  },
+                  {
+                      "front":  "fatal",
+                      "back":  "adj. 致命的"
+                  },
+                  {
+                      "front":  "fatigue",
+                      "back":  "n. 疲惫"
+                  },
+                  {
+                      "front":  "favor",
+                      "back":  "v. 偏爱"
+                  },
+                  {
+                      "front":  "fearlessly",
+                      "back":  "adv. 无畏地，大胆地"
+                  },
+                  {
+                      "front":  "fierce",
+                      "back":  "adj. 激烈的"
+                  },
+                  {
+                      "front":  "figure",
+                      "back":  "n. 数字"
+                  },
+                  {
+                      "front":  "fiscal",
+                      "back":  "adj. 财政的"
+                  },
+                  {
+                      "front":  "flat",
+                      "back":  "adj. 平的; n. 公寓"
+                  },
+                  {
+                      "front":  "flavor",
+                      "back":  "n. 口味"
+                  },
+                  {
+                      "front":  "flaw",
+                      "back":  "n. 缺点，瑕疵"
+                  },
+                  {
+                      "front":  "flee",
+                      "back":  "v. 离开"
+                  },
+                  {
+                      "front":  "flexible",
+                      "back":  "adj. 灵活的"
+                  },
+                  {
+                      "front":  "float",
+                      "back":  "v. 漂浮"
+                  },
+                  {
+                      "front":  "footnote",
+                      "back":  "n. 注脚"
+                  },
+                  {
+                      "front":  "forecast",
+                      "back":  "n. 预报，预测"
+                  },
+                  {
+                      "front":  "format",
+                      "back":  "n. 形式"
+                  },
+                  {
+                      "front":  "formidable",
+                      "back":  "adj. 可怕的；令人敬畏的，令人惊叹的"
+                  },
+                  {
+                      "front":  "foster",
+                      "back":  "v. 促进；培养"
+                  },
+                  {
+                      "front":  "foundation",
+                      "back":  "n. 基金会"
+                  },
+                  {
+                      "front":  "frankly",
+                      "back":  "adv. 坦率地"
+                  },
+                  {
+                      "front":  "frantic",
+                      "back":  "adj. 疯狂的"
+                  },
+                  {
+                      "front":  "fresh",
+                      "back":  "adj. 新颖的，新奇的"
+                  },
+                  {
+                      "front":  "frighten",
+                      "back":  "v. 使害怕"
+                  },
+                  {
+                      "front":  "frontier",
+                      "back":  "n. 边境"
+                  },
+                  {
+                      "front":  "frustrate",
+                      "back":  "v. 使挫败，使沮丧"
+                  },
+                  {
+                      "front":  "fulfill",
+                      "back":  "v. 实现"
+                  },
+                  {
+                      "front":  "furious",
+                      "back":  "adj. 生气的；激烈的"
+                  },
+                  {
+                      "front":  "fuss",
+                      "back":  "n. 小题大做"
+                  },
+                  {
+                      "front":  "gallery",
+                      "back":  "n. 美术馆"
+                  },
+                  {
+                      "front":  "gap",
+                      "back":  "n. 差距"
+                  },
+                  {
+                      "front":  "garage",
+                      "back":  "n. 车库"
+                  },
+                  {
+                      "front":  "gender",
+                      "back":  "n. 性别"
+                  },
+                  {
+                      "front":  "generate",
+                      "back":  "v. 产生"
+                  },
+                  {
+                      "front":  "generous",
+                      "back":  "adj. 慷慨的"
+                  },
+                  {
+                      "front":  "genetic",
+                      "back":  "adj. 基因的"
+                  },
+                  {
+                      "front":  "genius",
+                      "back":  "n. 天才"
+                  },
+                  {
+                      "front":  "genuine",
+                      "back":  "adj. 真的；由衷的"
+                  },
+                  {
+                      "front":  "geology",
+                      "back":  "n. 地质学"
+                  },
+                  {
+                      "front":  "gesture",
+                      "back":  "n. 姿势，手势"
+                  },
+                  {
+                      "front":  "glamorous",
+                      "back":  "adj. 有魅力的，迷人的"
+                  },
+                  {
+                      "front":  "glory",
+                      "back":  "n. 光荣，荣誉"
+                  },
+                  {
+                      "front":  "govern",
+                      "back":  "v. 管理"
+                  },
+                  {
+                      "front":  "grand",
+                      "back":  "adj. 壮丽的，极好的"
+                  },
+                  {
+                      "front":  "grasp",
+                      "back":  "v. 抓住，理解"
+                  },
+                  {
+                      "front":  "gratitude",
+                      "back":  "n. 感激"
+                  },
+                  {
+                      "front":  "grocery",
+                      "back":  "n. 杂货店"
+                  },
+                  {
+                      "front":  "guarantee",
+                      "back":  "v. 保证"
+                  },
+                  {
+                      "front":  "guard",
+                      "back":  "v. 保护"
+                  },
+                  {
+                      "front":  "guesstimate",
+                      "back":  "n. 大概估计，瞎猜估计"
+                  },
+                  {
+                      "front":  "habitual",
+                      "back":  "adj. 习惯的"
+                  },
+                  {
+                      "front":  "handgun",
+                      "back":  "n. 手枪"
+                  },
+                  {
+                      "front":  "handle",
+                      "back":  "n. 把手"
+                  },
+                  {
+                      "front":  "hardship",
+                      "back":  "n. 艰难"
+                  },
+                  {
+                      "front":  "harsh",
+                      "back":  "adj. 严酷的，严峻的"
+                  },
+                  {
+                      "front":  "hatch",
+                      "back":  "v. 孵化"
+                  },
+                  {
+                      "front":  "hazard",
+                      "back":  "n. 危险"
+                  },
+                  {
+                      "front":  "hesitate",
+                      "back":  "v. 犹豫"
+                  },
+                  {
+                      "front":  "hinder",
+                      "back":  "v. 阻碍"
+                  },
+                  {
+                      "front":  "hospitality",
+                      "back":  "n. 友好"
+                  },
+                  {
+                      "front":  "host",
+                      "back":  "v. 主持"
+                  },
+                  {
+                      "front":  "hostile",
+                      "back":  "adj. 有敌意的"
+                  },
+                  {
+                      "front":  "household",
+                      "back":  "n. 家庭，一家人"
+                  },
+                  {
+                      "front":  "humanistic",
+                      "back":  "adj. 人文的"
+                  },
+                  {
+                      "front":  "humorous",
+                      "back":  "adj. 幽默的"
+                  },
+                  {
+                      "front":  "hypothesis",
+                      "back":  "n. 假设，假说"
+                  },
+                  {
+                      "front":  "identify",
+                      "back":  "v. 认出，识别"
+                  },
+                  {
+                      "front":  "ideologically",
+                      "back":  "adv. 意识形态上地"
+                  },
+                  {
+                      "front":  "ideology",
+                      "back":  "n. 意识形态"
+                  },
+                  {
+                      "front":  "ignore",
+                      "back":  "v. 忽视"
+                  },
+                  {
+                      "front":  "imbalance",
+                      "back":  "n. 不平衡"
+                  },
+                  {
+                      "front":  "immense",
+                      "back":  "adj. 巨大的"
+                  },
+                  {
+                      "front":  "immensely",
+                      "back":  "adv. 非常，极大地"
+                  },
+                  {
+                      "front":  "immigrant",
+                      "back":  "n. 移民"
+                  },
+                  {
+                      "front":  "imminent",
+                      "back":  "adj. 即将来临的"
+                  },
+                  {
+                      "front":  "impact",
+                      "back":  "n. 影响"
+                  },
+                  {
+                      "front":  "impose",
+                      "back":  "v. 强加于"
+                  },
+                  {
+                      "front":  "imprison",
+                      "back":  "v. 监禁"
+                  },
+                  {
+                      "front":  "inadequate",
+                      "back":  "adj. 不足的"
+                  },
+                  {
+                      "front":  "incentive",
+                      "back":  "n. 刺激"
+                  },
+                  {
+                      "front":  "incidence",
+                      "back":  "n. 发生率"
+                  },
+                  {
+                      "front":  "incompetence",
+                      "back":  "n. 无能"
+                  },
+                  {
+                      "front":  "index",
+                      "back":  "n. 指数"
+                  },
+                  {
+                      "front":  "indicate",
+                      "back":  "v. 表明"
+                  },
+                  {
+                      "front":  "indicative",
+                      "back":  "adj. 指示的"
+                  },
+                  {
+                      "front":  "indifferent",
+                      "back":  "adj. 冷漠的"
+                  },
+                  {
+                      "front":  "indiscriminately",
+                      "back":  "adv. 不加选择地，不加区分地"
+                  },
+                  {
+                      "front":  "indispensable",
+                      "back":  "adj. 必不可少的"
+                  },
+                  {
+                      "front":  "indulge",
+                      "back":  "v. 放纵"
+                  },
+                  {
+                      "front":  "industrious",
+                      "back":  "adj. 勤奋的"
+                  },
+                  {
+                      "front":  "ineffective",
+                      "back":  "adj. 无效的"
+                  },
+                  {
+                      "front":  "inevitable",
+                      "back":  "adj. 不可避免的"
+                  },
+                  {
+                      "front":  "inexhaustible",
+                      "back":  "adj. 用不完的，无穷无尽的"
+                  },
+                  {
+                      "front":  "infant",
+                      "back":  "n. 婴儿"
+                  },
+                  {
+                      "front":  "infect",
+                      "back":  "v. 感染"
+                  },
+                  {
+                      "front":  "inflation",
+                      "back":  "n. 通货膨胀"
+                  },
+                  {
+                      "front":  "influential",
+                      "back":  "adj. 有影响力的"
+                  },
+                  {
+                      "front":  "inhale",
+                      "back":  "v. 吸入"
+                  },
+                  {
+                      "front":  "inherit",
+                      "back":  "v. 继承"
+                  },
+                  {
+                      "front":  "initiative",
+                      "back":  "n. 主动性"
+                  },
+                  {
+                      "front":  "injustice",
+                      "back":  "n. 不公正"
+                  },
+                  {
+                      "front":  "innovation",
+                      "back":  "n. 创新，革新"
+                  },
+                  {
+                      "front":  "inspire",
+                      "back":  "v. 鼓励"
+                  },
+                  {
+                      "front":  "instant",
+                      "back":  "adj. 立即的"
+                  },
+                  {
+                      "front":  "instinctively",
+                      "back":  "adv. 本能地"
+                  },
+                  {
+                      "front":  "institution",
+                      "back":  "n. 机构"
+                  },
+                  {
+                      "front":  "insufficient",
+                      "back":  "adj. 不足的"
+                  },
+                  {
+                      "front":  "integrity",
+                      "back":  "n. 正直"
+                  },
+                  {
+                      "front":  "intelligent",
+                      "back":  "adj. 聪明的"
+                  },
+                  {
+                      "front":  "intensely",
+                      "back":  "adv. 强烈地"
+                  },
+                  {
+                      "front":  "interact",
+                      "back":  "v. 互动"
+                  },
+                  {
+                      "front":  "interaction",
+                      "back":  "n. 互动"
+                  },
+                  {
+                      "front":  "interference",
+                      "back":  "n. 干涉"
+                  },
+                  {
+                      "front":  "interpretation",
+                      "back":  "n. 解释，理解"
+                  },
+                  {
+                      "front":  "interracial",
+                      "back":  "adj. 种族间的"
+                  },
+                  {
+                      "front":  "intervene",
+                      "back":  "v. 干涉"
+                  },
+                  {
+                      "front":  "intervention",
+                      "back":  "n. 干涉"
+                  },
+                  {
+                      "front":  "intriguing",
+                      "back":  "adj. 有趣的"
+                  },
+                  {
+                      "front":  "invasion",
+                      "back":  "n. 入侵"
+                  },
+                  {
+                      "front":  "irony",
+                      "back":  "n. 讽刺"
+                  },
+                  {
+                      "front":  "irrelevant",
+                      "back":  "adj. 无关的"
+                  },
+                  {
+                      "front":  "irritate",
+                      "back":  "v. 激怒"
+                  },
+                  {
+                      "front":  "isolation",
+                      "back":  "n. 隔绝，隔离"
+                  },
+                  {
+                      "front":  "judicial",
+                      "back":  "adj. 司法的"
+                  },
+                  {
+                      "front":  "jury",
+                      "back":  "n. 陪审团"
+                  },
+                  {
+                      "front":  "justifiable",
+                      "back":  "adj. 理所应当的"
+                  },
+                  {
+                      "front":  "justified",
+                      "back":  "adj. 正当的"
+                  },
+                  {
+                      "front":  "keen",
+                      "back":  "adj. 浓厚的；敏锐的"
+                  },
+                  {
+                      "front":  "kidnap",
+                      "back":  "v. 绑架"
+                  },
+                  {
+                      "front":  "lack",
+                      "back":  "v. 缺少"
+                  },
+                  {
+                      "front":  "lag",
+                      "back":  "v. 落后"
+                  },
+                  {
+                      "front":  "launch",
+                      "back":  "v. 发布，推出"
+                  },
+                  {
+                      "front":  "lawn",
+                      "back":  "n. 草坪"
+                  },
+                  {
+                      "front":  "layman",
+                      "back":  "n. 门外汉"
+                  },
+                  {
+                      "front":  "layout",
+                      "back":  "n. 陈列"
+                  },
+                  {
+                      "front":  "legend",
+                      "back":  "n. 传奇"
+                  },
+                  {
+                      "front":  "legislation",
+                      "back":  "n. 立法"
+                  },
+                  {
+                      "front":  "legislator",
+                      "back":  "n. 立法者"
+                  },
+                  {
+                      "front":  "lest",
+                      "back":  "conj. 以免"
+                  },
+                  {
+                      "front":  "lobby",
+                      "back":  "n. 游说"
+                  },
+                  {
+                      "front":  "luxurious",
+                      "back":  "adj. 奢侈的，豪华的"
+                  },
+                  {
+                      "front":  "magnify",
+                      "back":  "v. 放大"
+                  },
+                  {
+                      "front":  "maintenance",
+                      "back":  "n. 维修"
+                  },
+                  {
+                      "front":  "majority",
+                      "back":  "n. 大多数"
+                  },
+                  {
+                      "front":  "mall",
+                      "back":  "n. 商场"
+                  },
+                  {
+                      "front":  "manifest",
+                      "back":  "v. 表明"
+                  },
+                  {
+                      "front":  "manufacture",
+                      "back":  "v. 生产，制造"
+                  },
+                  {
+                      "front":  "marine",
+                      "back":  "adj. 海洋的"
+                  },
+                  {
+                      "front":  "markedly",
+                      "back":  "adv. 显著地"
+                  },
+                  {
+                      "front":  "mask",
+                      "back":  "n. 面具; v. 掩饰 掩盖"
+                  },
+                  {
+                      "front":  "material",
+                      "back":  "n. 材料"
+                  },
+                  {
+                      "front":  "materialize",
+                      "back":  "v. 实现"
+                  },
+                  {
+                      "front":  "matter",
+                      "back":  "v. 重要；要紧"
+                  },
+                  {
+                      "front":  "maturity",
+                      "back":  "n. 成熟"
+                  },
+                  {
+                      "front":  "measure",
+                      "back":  "n. 措施"
+                  },
+                  {
+                      "front":  "mechanism",
+                      "back":  "n. 机制"
+                  },
+                  {
+                      "front":  "melt",
+                      "back":  "v. 融化"
+                  },
+                  {
+                      "front":  "memo",
+                      "back":  "n. 备忘录"
+                  },
+                  {
+                      "front":  "memorable",
+                      "back":  "adj. 值得纪念的"
+                  },
+                  {
+                      "front":  "mention",
+                      "back":  "v. 提及"
+                  },
+                  {
+                      "front":  "merit",
+                      "back":  "v. 值得; n. 优点"
+                  },
+                  {
+                      "front":  "migrate",
+                      "back":  "v. 移民，迁徙"
+                  },
+                  {
+                      "front":  "milestone",
+                      "back":  "n. 里程碑"
+                  },
+                  {
+                      "front":  "minimal",
+                      "back":  "adj. 最低的，最小限度的"
+                  },
+                  {
+                      "front":  "mining",
+                      "back":  "n. 矿产"
+                  },
+                  {
+                      "front":  "minor",
+                      "back":  "adj. 次要的，小的"
+                  },
+                  {
+                      "front":  "minority",
+                      "back":  "n. 少数，少数民族"
+                  },
+                  {
+                      "front":  "miracle",
+                      "back":  "n. 奇迹"
+                  },
+                  {
+                      "front":  "misfortune",
+                      "back":  "n. 不幸地"
+                  },
+                  {
+                      "front":  "misinterpret",
+                      "back":  "v. 误解"
+                  },
+                  {
+                      "front":  "mobility",
+                      "back":  "n. 活动"
+                  },
+                  {
+                      "front":  "modernize",
+                      "back":  "v. 现代化"
+                  },
+                  {
+                      "front":  "moist",
+                      "back":  "adj. 潮湿的"
+                  },
+                  {
+                      "front":  "monopoly",
+                      "back":  "n. 垄断"
+                  },
+                  {
+                      "front":  "mortality",
+                      "back":  "n. 死亡率"
+                  },
+                  {
+                      "front":  "motel",
+                      "back":  "n. 汽车旅馆"
+                  },
+                  {
+                      "front":  "motivation",
+                      "back":  "n. 激励，刺激"
+                  },
+                  {
+                      "front":  "mount",
+                      "back":  "v. 增加"
+                  },
+                  {
+                      "front":  "mourn",
+                      "back":  "v. 哀悼"
+                  },
+                  {
+                      "front":  "municipal",
+                      "back":  "adj. 政府的"
+                  },
+                  {
+                      "front":  "narrow",
+                      "back":  "v. 变窄，缩小"
+                  },
+                  {
+                      "front":  "necessity",
+                      "back":  "n. 必须，必要性"
+                  },
+                  {
+                      "front":  "needy",
+                      "back":  "adj. 贫穷的"
+                  },
+                  {
+                      "front":  "neglect",
+                      "back":  "v. 忽视"
+                  },
+                  {
+                      "front":  "negotiation",
+                      "back":  "n. 协商"
+                  },
+                  {
+                      "front":  "neighborhood",
+                      "back":  "n. 附近"
+                  },
+                  {
+                      "front":  "neutrality",
+                      "back":  "n. 中立"
+                  },
+                  {
+                      "front":  "nightmare",
+                      "back":  "n. 噩梦"
+                  },
+                  {
+                      "front":  "nominate",
+                      "back":  "v. 提名"
+                  },
+                  {
+                      "front":  "notion",
+                      "back":  "n. 想法，观点"
+                  },
+                  {
+                      "front":  "numerous",
+                      "back":  "adj. 无数的"
+                  },
+                  {
+                      "front":  "nutritious",
+                      "back":  "adj. 有营养的"
+                  },
+                  {
+                      "front":  "obesity",
+                      "back":  "n. 肥胖"
+                  },
+                  {
+                      "front":  "objective",
+                      "back":  "n. 目标，目的"
+                  },
+                  {
+                      "front":  "oblige",
+                      "back":  "v. 迫使"
+                  },
+                  {
+                      "front":  "obstacle",
+                      "back":  "n. 阻碍"
+                  },
+                  {
+                      "front":  "occur",
+                      "back":  "v. 发生"
+                  },
+                  {
+                      "front":  "offense",
+                      "back":  "n. 冒犯"
+                  },
+                  {
+                      "front":  "oppose",
+                      "back":  "v. 反对"
+                  },
+                  {
+                      "front":  "opposition",
+                      "back":  "n. 反对"
+                  },
+                  {
+                      "front":  "optimistic",
+                      "back":  "adj. 乐观的"
+                  },
+                  {
+                      "front":  "organic",
+                      "back":  "adj. 有机的"
+                  },
+                  {
+                      "front":  "orient",
+                      "back":  "v. 使适应，使确定方向"
+                  },
+                  {
+                      "front":  "outcome",
+                      "back":  "n. 结果"
+                  },
+                  {
+                      "front":  "outdated",
+                      "back":  "adj. 过时的"
+                  },
+                  {
+                      "front":  "outlive",
+                      "back":  "v. 比……活的时间长"
+                  },
+                  {
+                      "front":  "outnumber",
+                      "back":  "v. 超过"
+                  },
+                  {
+                      "front":  "outsource",
+                      "back":  "v. 外包"
+                  },
+                  {
+                      "front":  "outweigh",
+                      "back":  "v. 超过"
+                  },
+                  {
+                      "front":  "overcharge",
+                      "back":  "v. 多收钱"
+                  },
+                  {
+                      "front":  "overexcited",
+                      "back":  "adj. 过于激烈的"
+                  },
+                  {
+                      "front":  "overwhelm",
+                      "back":  "v. 压倒，战胜"
+                  },
+                  {
+                      "front":  "owe",
+                      "back":  "v. 欠钱"
+                  },
+                  {
+                      "front":  "owl",
+                      "back":  "n. 猫头鹰"
+                  },
+                  {
+                      "front":  "panic",
+                      "back":  "adj. 恐慌的"
+                  },
+                  {
+                      "front":  "paradise",
+                      "back":  "n. 天堂"
+                  },
+                  {
+                      "front":  "paralyze",
+                      "back":  "v. 瘫痪，麻痹"
+                  },
+                  {
+                      "front":  "pasture",
+                      "back":  "n. 牧场"
+                  },
+                  {
+                      "front":  "pattern",
+                      "back":  "n. 模式"
+                  },
+                  {
+                      "front":  "pause",
+                      "back":  "n. 暂停，迟疑"
+                  },
+                  {
+                      "front":  "pave",
+                      "back":  "v. 铺路"
+                  },
+                  {
+                      "front":  "payroll",
+                      "back":  "n. 工资总额"
+                  },
+                  {
+                      "front":  "peculiar",
+                      "back":  "adj. 特有的，奇怪的"
+                  },
+                  {
+                      "front":  "penalty",
+                      "back":  "n. 惩罚"
+                  },
+                  {
+                      "front":  "pension",
+                      "back":  "n. 养老金"
+                  },
+                  {
+                      "front":  "perish",
+                      "back":  "v. 死亡"
+                  },
+                  {
+                      "front":  "perspective",
+                      "back":  "n. 视角，观点"
+                  },
+                  {
+                      "front":  "pessimist",
+                      "back":  "n. 悲观主义者"
+                  },
+                  {
+                      "front":  "phenomenon",
+                      "back":  "n. 现象"
+                  },
+                  {
+                      "front":  "philosopher",
+                      "back":  "n. 哲学家"
+                  },
+                  {
+                      "front":  "plot",
+                      "back":  "n. 情节"
+                  },
+                  {
+                      "front":  "poetry",
+                      "back":  "n. 诗歌"
+                  },
+                  {
+                      "front":  "polar",
+                      "back":  "n. （南、北）极"
+                  },
+                  {
+                      "front":  "poll",
+                      "back":  "n. 民意测验"
+                  },
+                  {
+                      "front":  "ponder",
+                      "back":  "v. 仔细考虑"
+                  },
+                  {
+                      "front":  "portion",
+                      "back":  "n. 部分"
+                  },
+                  {
+                      "front":  "pose",
+                      "back":  "v. 形成"
+                  },
+                  {
+                      "front":  "position",
+                      "back":  "v. 定位，安放；; n. 位置，职位"
+                  },
+                  {
+                      "front":  "possession",
+                      "back":  "n. 拥有"
+                  },
+                  {
+                      "front":  "potential",
+                      "back":  "adj. 潜在的; n. 潜力"
+                  },
+                  {
+                      "front":  "potentially",
+                      "back":  "adv. 潜在地"
+                  },
+                  {
+                      "front":  "practical",
+                      "back":  "adj. 实践的；实用的"
+                  },
+                  {
+                      "front":  "precedent",
+                      "back":  "n. 先例"
+                  },
+                  {
+                      "front":  "precision",
+                      "back":  "n. 精确性"
+                  },
+                  {
+                      "front":  "predict",
+                      "back":  "v. 预测"
+                  },
+                  {
+                      "front":  "predominantly",
+                      "back":  "adv. 占主导地位地"
+                  },
+                  {
+                      "front":  "preference",
+                      "back":  "n. 偏爱"
+                  },
+                  {
+                      "front":  "preindustrial",
+                      "back":  "adj. 工业化以前的"
+                  },
+                  {
+                      "front":  "prejudice",
+                      "back":  "n. 偏见"
+                  },
+                  {
+                      "front":  "premium",
+                      "back":  "n. 奖金"
+                  },
+                  {
+                      "front":  "prescribe",
+                      "back":  "v. 开处方"
+                  },
+                  {
+                      "front":  "present",
+                      "back":  "v. 呈现，给予"
+                  },
+                  {
+                      "front":  "presentation",
+                      "back":  "n. 展示，讲话"
+                  },
+                  {
+                      "front":  "presidency",
+                      "back":  "n. 总统任期"
+                  },
+                  {
+                      "front":  "prestige",
+                      "back":  "n. 名声，声望"
+                  },
+                  {
+                      "front":  "previous",
+                      "back":  "adj. 之前的"
+                  },
+                  {
+                      "front":  "priceless",
+                      "back":  "adj. 无价的，难以用价格衡量的"
+                  },
+                  {
+                      "front":  "primitive",
+                      "back":  "adj. 原始的，简单的"
+                  },
+                  {
+                      "front":  "principle",
+                      "back":  "n. 原则"
+                  },
+                  {
+                      "front":  "prior",
+                      "back":  "adj. 优先的，先前的"
+                  },
+                  {
+                      "front":  "private",
+                      "back":  "adj. 私人的"
+                  },
+                  {
+                      "front":  "procedure",
+                      "back":  "n. 程序"
+                  },
+                  {
+                      "front":  "productivity",
+                      "back":  "n. 生产力"
+                  },
+                  {
+                      "front":  "profitable",
+                      "back":  "adj. 有利可图的，有利益的"
+                  },
+                  {
+                      "front":  "profound",
+                      "back":  "adj. 深刻的，博学的"
+                  },
+                  {
+                      "front":  "prolonged",
+                      "back":  "adj. 长时间的"
+                  },
+                  {
+                      "front":  "promote",
+                      "back":  "v. 促进"
+                  },
+                  {
+                      "front":  "promotion",
+                      "back":  "n. 促销"
+                  },
+                  {
+                      "front":  "prompt",
+                      "back":  "v. 敦促"
+                  },
+                  {
+                      "front":  "property",
+                      "back":  "n. 财产"
+                  },
+                  {
+                      "front":  "propose",
+                      "back":  "v. 提出"
+                  },
+                  {
+                      "front":  "prospect",
+                      "back":  "n. 前景"
+                  },
+                  {
+                      "front":  "prosperity",
+                      "back":  "n. 繁荣"
+                  },
+                  {
+                      "front":  "publicity",
+                      "back":  "n. 宣传"
+                  },
+                  {
+                      "front":  "publicize",
+                      "back":  "v. 宣传"
+                  },
+                  {
+                      "front":  "purchase",
+                      "back":  "n. 购买"
+                  },
+                  {
+                      "front":  "pursue",
+                      "back":  "v. 追求"
+                  },
+                  {
+                      "front":  "puzzling",
+                      "back":  "adj. 迷惑的，困扰的"
+                  },
+                  {
+                      "front":  "quantifiable",
+                      "back":  "adj. 可量化的"
+                  },
+                  {
+                      "front":  "qualification",
+                      "back":  "n. 资格"
+                  },
+                  {
+                      "front":  "qualify",
+                      "back":  "v. 使有资格"
+                  },
+                  {
+                      "front":  "quantity",
+                      "back":  "n. 数量"
+                  },
+                  {
+                      "front":  "quicken",
+                      "back":  "v. 加快"
+                  },
+                  {
+                      "front":  "quota",
+                      "back":  "n. 配额，销售额"
+                  },
+                  {
+                      "front":  "quote",
+                      "back":  "v. 引用"
+                  },
+                  {
+                      "front":  "rally",
+                      "back":  "n. 集会"
+                  },
+                  {
+                      "front":  "randomly",
+                      "back":  "adv. 随机地"
+                  },
+                  {
+                      "front":  "rank",
+                      "back":  "v. 排列，分级"
+                  },
+                  {
+                      "front":  "rape",
+                      "back":  "n. 强奸"
+                  },
+                  {
+                      "front":  "rare",
+                      "back":  "adj. 罕见的，稀少的"
+                  },
+                  {
+                      "front":  "rate",
+                      "back":  "n. 费用"
+                  },
+                  {
+                      "front":  "realm",
+                      "back":  "n. 领域，方面"
+                  },
+                  {
+                      "front":  "reap",
+                      "back":  "v. 收割，收货"
+                  },
+                  {
+                      "front":  "recall",
+                      "back":  "v. 回忆起，想起"
+                  },
+                  {
+                      "front":  "receipt",
+                      "back":  "n. 发票"
+                  },
+                  {
+                      "front":  "reception",
+                      "back":  "n. 接待"
+                  },
+                  {
+                      "front":  "recipe",
+                      "back":  "n. 秘方，食谱"
+                  },
+                  {
+                      "front":  "reckless",
+                      "back":  "adj. 鲁莽的"
+                  },
+                  {
+                      "front":  "reckon",
+                      "back":  "v. 认为，评价"
+                  },
+                  {
+                      "front":  "reconcile",
+                      "back":  "v. 使和解，使一致；调解"
+                  },
+                  {
+                      "front":  "recruit",
+                      "back":  "v. 招聘"
+                  },
+                  {
+                      "front":  "recurrence",
+                      "back":  "n. 再次发生"
+                  },
+                  {
+                      "front":  "reflect",
+                      "back":  "v. 思考，反映，反射"
+                  },
+                  {
+                      "front":  "reflective",
+                      "back":  "adj. 深思熟虑的；反映的，反射的"
+                  },
+                  {
+                      "front":  "refreshing",
+                      "back":  "adj. 新鲜的"
+                  },
+                  {
+                      "front":  "regain",
+                      "back":  "v. 重新获得"
+                  },
+                  {
+                      "front":  "registration",
+                      "back":  "n. 注册，登记"
+                  },
+                  {
+                      "front":  "regulation",
+                      "back":  "n. 管理，规则"
+                  },
+                  {
+                      "front":  "reimbursement",
+                      "back":  "n. 返还费用"
+                  },
+                  {
+                      "front":  "reinforce",
+                      "back":  "v. 增强，提高"
+                  },
+                  {
+                      "front":  "release",
+                      "back":  "v. 释放，发布"
+                  },
+                  {
+                      "front":  "relevant",
+                      "back":  "adj. 相关的"
+                  },
+                  {
+                      "front":  "reliable",
+                      "back":  "adj. 可靠的"
+                  },
+                  {
+                      "front":  "relieve",
+                      "back":  "v. 减轻，缓解"
+                  },
+                  {
+                      "front":  "relieved",
+                      "back":  "adj. 轻松的，缓解的"
+                  },
+                  {
+                      "front":  "reluctance",
+                      "back":  "n. 勉强，不情愿"
+                  },
+                  {
+                      "front":  "remarkable",
+                      "back":  "adj. 显著的，杰出的"
+                  },
+                  {
+                      "front":  "remove",
+                      "back":  "v. 消除，移除；更新"
+                  },
+                  {
+                      "front":  "replacement",
+                      "back":  "n. 代替"
+                  },
+                  {
+                      "front":  "representative",
+                      "back":  "n. 代表"
+                  },
+                  {
+                      "front":  "reproduction",
+                      "back":  "n. 繁殖"
+                  },
+                  {
+                      "front":  "reservation",
+                      "back":  "n. 预定"
+                  },
+                  {
+                      "front":  "resident",
+                      "back":  "n. 居民"
+                  },
+                  {
+                      "front":  "resign",
+                      "back":  "v. 辞职"
+                  },
+                  {
+                      "front":  "resist",
+                      "back":  "v. 抵制"
+                  },
+                  {
+                      "front":  "resolute",
+                      "back":  "adj. 坚定的"
+                  },
+                  {
+                      "front":  "resort",
+                      "back":  "n. 度假胜地"
+                  },
+                  {
+                      "front":  "respective",
+                      "back":  "adj. 各自的"
+                  },
+                  {
+                      "front":  "responsibility",
+                      "back":  "n. 责任"
+                  },
+                  {
+                      "front":  "responsive",
+                      "back":  "adj. 灵敏的，反应的"
+                  },
+                  {
+                      "front":  "restrict",
+                      "back":  "v. 限制"
+                  },
+                  {
+                      "front":  "resume",
+                      "back":  "n. 简历"
+                  },
+                  {
+                      "front":  "retailer",
+                      "back":  "n. 零售商"
+                  },
+                  {
+                      "front":  "reunion",
+                      "back":  "n. 团聚"
+                  },
+                  {
+                      "front":  "reveal",
+                      "back":  "v. 揭露"
+                  },
+                  {
+                      "front":  "revenue",
+                      "back":  "n. 收入"
+                  },
+                  {
+                      "front":  "reverse",
+                      "back":  "adj. 相反的"
+                  },
+                  {
+                      "front":  "revive",
+                      "back":  "v. 复苏"
+                  },
+                  {
+                      "front":  "revolutionize",
+                      "back":  "v. 革命化"
+                  },
+                  {
+                      "front":  "rewarding",
+                      "back":  "adj. 有回报的"
+                  },
+                  {
+                      "front":  "ridiculous",
+                      "back":  "adj. 滑稽的，可笑的"
+                  },
+                  {
+                      "front":  "rigorous",
+                      "back":  "adj. 严格的"
+                  },
+                  {
+                      "front":  "ritual",
+                      "back":  "n. 仪式"
+                  },
+                  {
+                      "front":  "robbery",
+                      "back":  "n. 抢劫"
+                  },
+                  {
+                      "front":  "romantic",
+                      "back":  "adj. 爱情的"
+                  },
+                  {
+                      "front":  "ruin",
+                      "back":  "v. 毁坏"
+                  },
+                  {
+                      "front":  "rustle",
+                      "back":  "v. 发出沙沙声"
+                  },
+                  {
+                      "front":  "sample",
+                      "back":  "n. 样本，样品"
+                  },
+                  {
+                      "front":  "scandal",
+                      "back":  "n. 丑闻"
+                  },
+                  {
+                      "front":  "scarcity",
+                      "back":  "n. 缺乏"
+                  },
+                  {
+                      "front":  "scare",
+                      "back":  "n. 恐吓，惊恐"
+                  },
+                  {
+                      "front":  "scent",
+                      "back":  "n. 味道"
+                  },
+                  {
+                      "front":  "schedule",
+                      "back":  "n. 时间表"
+                  },
+                  {
+                      "front":  "sculpture",
+                      "back":  "n. 雕塑"
+                  },
+                  {
+                      "front":  "sector",
+                      "back":  "n. 部门"
+                  },
+                  {
+                      "front":  "sensible",
+                      "back":  "adj. 理智的"
+                  },
+                  {
+                      "front":  "server",
+                      "back":  "n. 服务器"
+                  },
+                  {
+                      "front":  "session",
+                      "back":  "n. 会议，学年"
+                  },
+                  {
+                      "front":  "severity",
+                      "back":  "n. 严重性"
+                  },
+                  {
+                      "front":  "sexism",
+                      "back":  "n. 性别歧视"
+                  },
+                  {
+                      "front":  "shade",
+                      "back":  "v. 掩盖"
+                  },
+                  {
+                      "front":  "shady",
+                      "back":  "adj. 阴凉的"
+                  },
+                  {
+                      "front":  "shareholder",
+                      "back":  "n. 股东"
+                  },
+                  {
+                      "front":  "shed",
+                      "back":  "v. 流出"
+                  },
+                  {
+                      "front":  "sheer",
+                      "back":  "adj. 纯粹的"
+                  },
+                  {
+                      "front":  "shepherd",
+                      "back":  "v. 引导，带领"
+                  },
+                  {
+                      "front":  "shift",
+                      "back":  "v. 转变"
+                  },
+                  {
+                      "front":  "shot",
+                      "back":  "n. 照相，照片"
+                  },
+                  {
+                      "front":  "shrewd",
+                      "back":  "adj. 精明的"
+                  },
+                  {
+                      "front":  "shrink",
+                      "back":  "v. 缩减，缩小"
+                  },
+                  {
+                      "front":  "shrug",
+                      "back":  "v. 耸肩"
+                  },
+                  {
+                      "front":  "shuttle",
+                      "back":  "n. 航天飞机"
+                  },
+                  {
+                      "front":  "signal",
+                      "back":  "v. 标志"
+                  },
+                  {
+                      "front":  "significant",
+                      "back":  "adj. 重要的"
+                  },
+                  {
+                      "front":  "signify",
+                      "back":  "v. 表明，象征"
+                  },
+                  {
+                      "front":  "simultaneous",
+                      "back":  "adj. 同步的"
+                  },
+                  {
+                      "front":  "skeptical",
+                      "back":  "adj. 怀疑的"
+                  },
+                  {
+                      "front":  "skip",
+                      "back":  "v. 跳过"
+                  },
+                  {
+                      "front":  "skyrocket",
+                      "back":  "v. 猛增"
+                  },
+                  {
+                      "front":  "skyscraper",
+                      "back":  "n. 摩天大楼"
+                  },
+                  {
+                      "front":  "slack",
+                      "back":  "adj. 疲软的，萧条的"
+                  },
+                  {
+                      "front":  "slash",
+                      "back":  "v. 削减"
+                  },
+                  {
+                      "front":  "slight",
+                      "back":  "adj. 轻微的"
+                  },
+                  {
+                      "front":  "slim",
+                      "back":  "adj. 苗条的"
+                  },
+                  {
+                      "front":  "smuggle",
+                      "back":  "v. 走私"
+                  },
+                  {
+                      "front":  "solid",
+                      "back":  "adj. 坚实的，稳固的"
+                  },
+                  {
+                      "front":  "solution",
+                      "back":  "n. 解决，溶液"
+                  },
+                  {
+                      "front":  "soothe",
+                      "back":  "v. 安慰，减轻"
+                  },
+                  {
+                      "front":  "sophisticated",
+                      "back":  "adj. 复杂的，老于世故的"
+                  },
+                  {
+                      "front":  "spacious",
+                      "back":  "adj. 宽敞的"
+                  },
+                  {
+                      "front":  "specialist",
+                      "back":  "n. 专家"
+                  },
+                  {
+                      "front":  "species",
+                      "back":  "n. 物种"
+                  },
+                  {
+                      "front":  "specific",
+                      "back":  "adj. 具体的"
+                  },
+                  {
+                      "front":  "specification",
+                      "back":  "n. 说明书"
+                  },
+                  {
+                      "front":  "spectacle",
+                      "back":  "n. 景象"
+                  },
+                  {
+                      "front":  "sponsor",
+                      "back":  "v. 赞助, 赞助商"
+                  },
+                  {
+                      "front":  "spot",
+                      "back":  "n. 点; v. 发现"
+                  },
+                  {
+                      "front":  "spread",
+                      "back":  "v. 传播，扩散"
+                  },
+                  {
+                      "front":  "squalor",
+                      "back":  "n. 肮脏"
+                  },
+                  {
+                      "front":  "standardize",
+                      "back":  "v. 标准化"
+                  },
+                  {
+                      "front":  "startle",
+                      "back":  "v. 使惊讶"
+                  },
+                  {
+                      "front":  "steady",
+                      "back":  "adj. 稳定的"
+                  },
+                  {
+                      "front":  "stereotype",
+                      "back":  "n. 刻板印象，固有印象"
+                  },
+                  {
+                      "front":  "stimulate",
+                      "back":  "v. 刺激，激励"
+                  },
+                  {
+                      "front":  "stockbroker",
+                      "back":  "n. 股票经理人"
+                  },
+                  {
+                      "front":  "stove",
+                      "back":  "n. 炉子"
+                  },
+                  {
+                      "front":  "straightforward",
+                      "back":  "adj. 直接的"
+                  },
+                  {
+                      "front":  "strain",
+                      "back":  "n. 压力"
+                  },
+                  {
+                      "front":  "strategy",
+                      "back":  "n. 策略"
+                  },
+                  {
+                      "front":  "stray",
+                      "back":  "n. 迷路，流浪"
+                  },
+                  {
+                      "front":  "stress",
+                      "back":  "v. 强调"
+                  },
+                  {
+                      "front":  "strike",
+                      "back":  "n. 罢工"
+                  },
+                  {
+                      "front":  "strip",
+                      "back":  "n. 狭长的一块"
+                  },
+                  {
+                      "front":  "stuff",
+                      "back":  "n. 材料，东西"
+                  },
+                  {
+                      "front":  "submerge",
+                      "back":  "v. 淹没"
+                  },
+                  {
+                      "front":  "submit",
+                      "back":  "v. 提交"
+                  },
+                  {
+                      "front":  "subsidy",
+                      "back":  "n. 补助"
+                  },
+                  {
+                      "front":  "substance",
+                      "back":  "n. 物质"
+                  },
+                  {
+                      "front":  "subtle",
+                      "back":  "adj. 微妙的"
+                  },
+                  {
+                      "front":  "suburban",
+                      "back":  "adj. 郊区的"
+                  },
+                  {
+                      "front":  "supervisor",
+                      "back":  "n. 督导"
+                  },
+                  {
+                      "front":  "surgical",
+                      "back":  "adj. 手术的"
+                  },
+                  {
+                      "front":  "suspect",
+                      "back":  "v. 怀疑; n. 嫌疑犯"
+                  },
+                  {
+                      "front":  "suspicious",
+                      "back":  "adj. 怀疑的"
+                  },
+                  {
+                      "front":  "sway",
+                      "back":  "v. 影响"
+                  },
+                  {
+                      "front":  "switch",
+                      "back":  "v. 转换"
+                  },
+                  {
+                      "front":  "sympathetic",
+                      "back":  "adj. 同情的"
+                  },
+                  {
+                      "front":  "symptom",
+                      "back":  "n. 症状"
+                  },
+                  {
+                      "front":  "tackle",
+                      "back":  "v. 解决，处理"
+                  },
+                  {
+                      "front":  "tangled",
+                      "back":  "adj. 复杂的，纠缠的"
+                  },
+                  {
+                      "front":  "tank",
+                      "back":  "n. 水箱"
+                  },
+                  {
+                      "front":  "temptation",
+                      "back":  "n. 诱惑"
+                  },
+                  {
+                      "front":  "testify",
+                      "back":  "v. 证明，检验"
+                  },
+                  {
+                      "front":  "testimony",
+                      "back":  "n. 证词"
+                  },
+                  {
+                      "front":  "texture",
+                      "back":  "v. 质地"
+                  },
+                  {
+                      "front":  "therapy",
+                      "back":  "n. 疗法"
+                  },
+                  {
+                      "front":  "threat",
+                      "back":  "n. 威胁"
+                  },
+                  {
+                      "front":  "threaten",
+                      "back":  "v. 威胁"
+                  },
+                  {
+                      "front":  "threshold",
+                      "back":  "n. 门槛"
+                  },
+                  {
+                      "front":  "tough",
+                      "back":  "adj. 困难的，粗暴的"
+                  },
+                  {
+                      "front":  "trace",
+                      "back":  "v. 追踪"
+                  },
+                  {
+                      "front":  "track",
+                      "back":  "v. 追踪; n. 轨迹，踪迹"
+                  },
+                  {
+                      "front":  "tragedy",
+                      "back":  "n. 悲剧"
+                  },
+                  {
+                      "front":  "trap",
+                      "back":  "v. 捕捉"
+                  },
+                  {
+                      "front":  "trend",
+                      "back":  "n. 趋势"
+                  },
+                  {
+                      "front":  "trigger",
+                      "back":  "v. 引发，引起"
+                  },
+                  {
+                      "front":  "tropical",
+                      "back":  "adj. 热带的"
+                  },
+                  {
+                      "front":  "tuition",
+                      "back":  "n. 学费"
+                  },
+                  {
+                      "front":  "turbulence",
+                      "back":  "n. 喧嚣；气流"
+                  },
+                  {
+                      "front":  "turtle",
+                      "back":  "n. 海龟"
+                  },
+                  {
+                      "front":  "tutor",
+                      "back":  "v. 辅导"
+                  },
+                  {
+                      "front":  "twist",
+                      "back":  "v. 扭曲"
+                  },
+                  {
+                      "front":  "typical",
+                      "back":  "adj. 典型的"
+                  },
+                  {
+                      "front":  "uncertain",
+                      "back":  "adj. 不确定的"
+                  },
+                  {
+                      "front":  "undecided",
+                      "back":  "adj. 不确定的"
+                  },
+                  {
+                      "front":  "underestimate",
+                      "back":  "v. 低估"
+                  },
+                  {
+                      "front":  "underfunded",
+                      "back":  "adj. 资金不足的"
+                  },
+                  {
+                      "front":  "underlying",
+                      "back":  "adj. 潜在的，基础的"
+                  },
+                  {
+                      "front":  "undertake",
+                      "back":  "v. 承担；着手，开始"
+                  },
+                  {
+                      "front":  "undertaking",
+                      "back":  "n. 任务，事情"
+                  },
+                  {
+                      "front":  "undocumented",
+                      "back":  "adj. 无证明的"
+                  },
+                  {
+                      "front":  "unethical",
+                      "back":  "adj. 不道德的"
+                  },
+                  {
+                      "front":  "uneven",
+                      "back":  "adj. 不均衡的"
+                  },
+                  {
+                      "front":  "unexpected",
+                      "back":  "adj. 意想不到的"
+                  },
+                  {
+                      "front":  "unified",
+                      "back":  "adj. 统一的"
+                  },
+                  {
+                      "front":  "unprecedented",
+                      "back":  "adj. 史无前例的"
+                  },
+                  {
+                      "front":  "unrealistic",
+                      "back":  "adj. 不现实的"
+                  },
+                  {
+                      "front":  "unstable",
+                      "back":  "adj. 不稳定的"
+                  },
+                  {
+                      "front":  "untiring",
+                      "back":  "adj. 不知疲倦的"
+                  },
+                  {
+                      "front":  "untrustworthy",
+                      "back":  "adj. 不值得信任的，怀疑的"
+                  },
+                  {
+                      "front":  "urban",
+                      "back":  "adj. 城市的，都市的"
+                  },
+                  {
+                      "front":  "urbanization",
+                      "back":  "n. 城市化"
+                  },
+                  {
+                      "front":  "urge",
+                      "back":  "v. 催促"
+                  },
+                  {
+                      "front":  "urgent",
+                      "back":  "adj. 急迫的"
+                  },
+                  {
+                      "front":  "utilization",
+                      "back":  "n. 利用"
+                  },
+                  {
+                      "front":  "validity",
+                      "back":  "n. 有效性，真实性"
+                  },
+                  {
+                      "front":  "variation",
+                      "back":  "n. 变化"
+                  },
+                  {
+                      "front":  "vary",
+                      "back":  "v. 变化"
+                  },
+                  {
+                      "front":  "vegetarian",
+                      "back":  "n. 素食主义者"
+                  },
+                  {
+                      "front":  "vehicle",
+                      "back":  "n. 车辆"
+                  },
+                  {
+                      "front":  "vessel",
+                      "back":  "n. 血管"
+                  },
+                  {
+                      "front":  "victim",
+                      "back":  "n. 受害者"
+                  },
+                  {
+                      "front":  "view",
+                      "back":  "v. 看待"
+                  },
+                  {
+                      "front":  "viewpoint",
+                      "back":  "n. 观点"
+                  },
+                  {
+                      "front":  "violation",
+                      "back":  "n. 违反"
+                  },
+                  {
+                      "front":  "violent",
+                      "back":  "adj. 暴力的"
+                  },
+                  {
+                      "front":  "virtual",
+                      "back":  "adj. 实际的，虚拟的"
+                  },
+                  {
+                      "front":  "virtually",
+                      "back":  "adv. 几乎"
+                  },
+                  {
+                      "front":  "virus",
+                      "back":  "n. 病毒"
+                  },
+                  {
+                      "front":  "vitamin",
+                      "back":  "n. 维他命"
+                  },
+                  {
+                      "front":  "vulnerable",
+                      "back":  "adj. 脆弱的, 易受影响的"
+                  },
+                  {
+                      "front":  "welfare",
+                      "back":  "n. 福利"
+                  },
+                  {
+                      "front":  "widespread",
+                      "back":  "adj. 广泛传播的"
+                  },
+                  {
+                      "front":  "wildfire",
+                      "back":  "n. 森林大火"
+                  },
+                  {
+                      "front":  "wildlife",
+                      "back":  "n. 野生动物"
+                  },
+                  {
+                      "front":  "wishful",
+                      "back":  "adj. 一厢情愿的"
+                  },
+                  {
+                      "front":  "wonder",
+                      "back":  "v. 想知道，好奇"
+                  },
+                  {
+                      "front":  "workload",
+                      "back":  "n. 工作量"
+                  },
+                  {
+                      "front":  "yield",
+                      "back":  "v. 产生"
+                  },
+                  {
+                      "front":  "deposit",
+                      "back":  "v. 存放; n. 存款"
+                  },
+                  {
+                      "front":  "receptionist",
+                      "back":  "n. 接待员"
+                  },
+                  {
+                      "front":  "particle",
+                      "back":  "n. 粒子，微粒"
+                  },
+                  {
+                      "front":  "furnish",
+                      "back":  "v. 提供"
+                  },
+                  {
+                      "front":  "elaborately",
+                      "back":  "adv. 复杂地，精心设计地"
+                  },
+                  {
+                      "front":  "infectious",
+                      "back":  "adj. 感染的，传染的"
+                  },
+                  {
+                      "front":  "diagnose",
+                      "back":  "v. 诊断"
+                  },
+                  {
+                      "front":  "cripple",
+                      "back":  "n. 残疾，跛子"
+                  },
+                  {
+                      "front":  "aggressive",
+                      "back":  "adj. 挑衅的"
+                  },
+                  {
+                      "front":  "aptly",
+                      "back":  "adv. 适当地"
+                  },
+                  {
+                      "front":  "assimilate",
+                      "back":  "v. 同化"
+                  },
+                  {
+                      "front":  "consistent",
+                      "back":  "adj. 一致的"
+                  },
+                  {
+                      "front":  "suspend",
+                      "back":  "v. 暂停"
+                  },
+                  {
+                      "front":  "ingenuity",
+                      "back":  "n. 创造力"
+                  },
+                  {
+                      "front":  "reserved",
+                      "back":  "adj. 保留意见的；矜持的"
+                  },
+                  {
+                      "front":  "unbiased",
+                      "back":  "adj. 公正的"
+                  },
+                  {
+                      "front":  "disposal",
+                      "back":  "n. 支配；处理"
+                  },
+                  {
+                      "front":  "inferior",
+                      "back":  "adj. 比……差"
+                  },
+                  {
+                      "front":  "stabilize",
+                      "back":  "v. 使稳固，使安定"
+                  },
+                  {
+                      "front":  "fertility",
+                      "back":  "n. 多产，肥沃"
+                  },
+                  {
+                      "front":  "bleak",
+                      "back":  "adj. 荒凉的"
+                  },
+                  {
+                      "front":  "soar",
+                      "back":  "v. 高飞"
+                  },
+                  {
+                      "front":  "optimism",
+                      "back":  "n. 乐观"
+                  },
+                  {
+                      "front":  "ambition",
+                      "back":  "n. 野心，报复"
+                  },
+                  {
+                      "front":  "pragmatic",
+                      "back":  "adj. 务实的，讲求实际的"
+                  },
+                  {
+                      "front":  "compromise",
+                      "back":  "v. 妥协；危害"
+                  },
+                  {
+                      "front":  "perpetual",
+                      "back":  "adj. 永久的"
+                  },
+                  {
+                      "front":  "dispensable",
+                      "back":  "adj. 可有可无的"
+                  },
+                  {
+                      "front":  "assault",
+                      "back":  "n. 攻击"
+                  },
+                  {
+                      "front":  "transcend",
+                      "back":  "v. 超越"
+                  },
+                  {
+                      "front":  "inherent",
+                      "back":  "adj. 固有的"
+                  },
+                  {
+                      "front":  "baffle",
+                      "back":  "v. 使迷惑，困惑"
+                  },
+                  {
+                      "front":  "stain",
+                      "back":  "n. 污渍，污点"
+                  },
+                  {
+                      "front":  "peer",
+                      "back":  "n. 同龄人"
+                  },
+                  {
+                      "front":  "isolate",
+                      "back":  "v. 使隔离"
+                  },
+                  {
+                      "front":  "abolition",
+                      "back":  "n. 废除"
+                  },
+                  {
+                      "front":  "slavery",
+                      "back":  "n. 奴隶制度"
+                  },
+                  {
+                      "front":  "script",
+                      "back":  "n. 脚本，剧本"
+                  },
+                  {
+                      "front":  "manuscript",
+                      "back":  "n. 手稿"
+                  },
+                  {
+                      "front":  "trait",
+                      "back":  "n. 特点"
+                  },
+                  {
+                      "front":  "deviate",
+                      "back":  "v. 偏离"
+                  },
+                  {
+                      "front":  "overwhelming",
+                      "back":  "adj. 压倒性的"
+                  },
+                  {
+                      "front":  "successively",
+                      "back":  "adv. 接连着地，继续地"
+                  },
+                  {
+                      "front":  "visualize",
+                      "back":  "v. 想象"
+                  },
+                  {
+                      "front":  "underrepresented",
+                      "back":  "adj. 未被充分代表的"
+                  },
+                  {
+                      "front":  "tap",
+                      "back":  "v. 轻敲, 导出"
+                  },
+                  {
+                      "front":  "extinguish",
+                      "back":  "v. 熄灭；使消亡"
+                  },
+                  {
+                      "front":  "toxic",
+                      "back":  "adj. 有毒的"
+                  },
+                  {
+                      "front":  "postdoctoral",
+                      "back":  "adj. 博士后的"
+                  },
+                  {
+                      "front":  "recommend",
+                      "back":  "v. 推荐"
+                  },
+                  {
+                      "front":  "consultation",
+                      "back":  "n. 商议"
+                  },
+                  {
+                      "front":  "determine",
+                      "back":  "v. 决定"
+                  },
+                  {
+                      "front":  "confidential",
+                      "back":  "adj. 机密的"
+                  },
+                  {
+                      "front":  "curriculum",
+                      "back":  "n. 课程"
+                  },
+                  {
+                      "front":  "cafeteria",
+                      "back":  "n. 自助餐厅"
+                  },
+                  {
+                      "front":  "trim",
+                      "back":  "v. 修剪"
+                  },
+                  {
+                      "front":  "expel",
+                      "back":  "v. 开除，驱逐"
+                  },
+                  {
+                      "front":  "refine",
+                      "back":  "v. 精炼；使……文雅"
+                  },
+                  {
+                      "front":  "suicide",
+                      "back":  "n. 自杀"
+                  },
+                  {
+                      "front":  "manual",
+                      "back":  "adj. 手工的；体力的"
+                  },
+                  {
+                      "front":  "alphabetical",
+                      "back":  "adj. 按字母表顺序的"
+                  },
+                  {
+                      "front":  "bloom",
+                      "back":  "v. 开花，茂盛"
+                  },
+                  {
+                      "front":  "fertilizer",
+                      "back":  "n. 肥料"
+                  },
+                  {
+                      "front":  "plough",
+                      "back":  "n. 犁"
+                  },
+                  {
+                      "front":  "affiliate",
+                      "back":  "v. 使隶属于"
+                  },
+                  {
+                      "front":  "hazardous",
+                      "back":  "adj. 危险的"
+                  },
+                  {
+                      "front":  "instantaneous",
+                      "back":  "adj. 即时的，瞬间的"
+                  },
+                  {
+                      "front":  "intrinsic",
+                      "back":  "adj. 本质的，固有的"
+                  },
+                  {
+                      "front":  "paradox",
+                      "back":  "n. 悖论"
+                  },
+                  {
+                      "front":  "grateful",
+                      "back":  "adj. 感激的"
+                  },
+                  {
+                      "front":  "modify",
+                      "back":  "v. 改变"
+                  },
+                  {
+                      "front":  "consent",
+                      "back":  "n. 同意"
+                  },
+                  {
+                      "front":  "intuitive",
+                      "back":  "adj. 直觉的"
+                  },
+                  {
+                      "front":  "scaffolding",
+                      "back":  "n. 脚手架"
+                  },
+                  {
+                      "front":  "outperform",
+                      "back":  "v. 胜过"
+                  },
+                  {
+                      "front":  "discern",
+                      "back":  "v. 识别"
+                  },
+                  {
+                      "front":  "lawsuit",
+                      "back":  "n. 诉讼"
+                  },
+                  {
+                      "front":  "ruling",
+                      "back":  "n. 裁定"
+                  },
+                  {
+                      "front":  "designate",
+                      "back":  "v. 指定，委派"
+                  },
+                  {
+                      "front":  "endorsement",
+                      "back":  "n. 支持"
+                  },
+                  {
+                      "front":  "tasteless",
+                      "back":  "adj. 没有味道的"
+                  },
+                  {
+                      "front":  "brilliant",
+                      "back":  "adj. 才华横溢的；极好的"
+                  },
+                  {
+                      "front":  "fabric",
+                      "back":  "n. 布料"
+                  },
+                  {
+                      "front":  "vocational",
+                      "back":  "adj. 职业的"
+                  },
+                  {
+                      "front":  "carpentry",
+                      "back":  "n. 木工业"
+                  },
+                  {
+                      "front":  "ventilate",
+                      "back":  "v. 使通风"
+                  },
+                  {
+                      "front":  "embody",
+                      "back":  "v. 体现"
+                  },
+                  {
+                      "front":  "tedious",
+                      "back":  "adj. 冗长的"
+                  },
+                  {
+                      "front":  "deduction",
+                      "back":  "n. 扣款"
+                  },
+                  {
+                      "front":  "fluctuate",
+                      "back":  "v. 波动"
+                  },
+                  {
+                      "front":  "simultaneously",
+                      "back":  "adv. 同步地，同时地"
+                  },
+                  {
+                      "front":  "craft",
+                      "back":  "n. 手艺; v. 精巧地制作"
+                  },
+                  {
+                      "front":  "facilitate",
+                      "back":  "v. 使便利；促进"
+                  },
+                  {
+                      "front":  "deteriorate",
+                      "back":  "v. 恶化"
+                  },
+                  {
+                      "front":  "hasten",
+                      "back":  "v. 加速"
+                  },
+                  {
+                      "front":  "specialize",
+                      "back":  "v. 专业从事"
+                  },
+                  {
+                      "front":  "liberation",
+                      "back":  "n. 解放"
+                  },
+                  {
+                      "front":  "pursuit",
+                      "back":  "n. 追求"
+                  },
+                  {
+                      "front":  "bemoan",
+                      "back":  "v. 抱怨；惋惜"
+                  },
+                  {
+                      "front":  "evolve",
+                      "back":  "v. 进化"
+                  },
+                  {
+                      "front":  "fluently",
+                      "back":  "adv. 流利地"
+                  },
+                  {
+                      "front":  "composition",
+                      "back":  "n. 作文"
+                  },
+                  {
+                      "front":  "literal",
+                      "back":  "adj. 字面的"
+                  },
+                  {
+                      "front":  "honorary",
+                      "back":  "adj. 荣誉的"
+                  },
+                  {
+                      "front":  "hurl",
+                      "back":  "v. 猛投"
+                  },
+                  {
+                      "front":  "confer",
+                      "back":  "v. 授予"
+                  },
+                  {
+                      "front":  "notoriously",
+                      "back":  "adv. 臭名昭著地"
+                  },
+                  {
+                      "front":  "validation",
+                      "back":  "n. 证实"
+                  },
+                  {
+                      "front":  "jeopardize",
+                      "back":  "v. 危害，危及"
+                  },
+                  {
+                      "front":  "allegedly",
+                      "back":  "adv. 据说"
+                  },
+                  {
+                      "front":  "vigorous",
+                      "back":  "adj. 积极的；精力充沛的"
+                  },
+                  {
+                      "front":  "fake",
+                      "back":  "n. 假货"
+                  },
+                  {
+                      "front":  "contestant",
+                      "back":  "n. 参赛者"
+                  },
+                  {
+                      "front":  "column",
+                      "back":  "n. 专栏"
+                  },
+                  {
+                      "front":  "hasty",
+                      "back":  "adj. 匆忙的"
+                  },
+                  {
+                      "front":  "linger",
+                      "back":  "v. 逗留，徘徊"
+                  },
+                  {
+                      "front":  "inheritance",
+                      "back":  "n. 继承；遗产"
+                  },
+                  {
+                      "front":  "worldly",
+                      "back":  "adj. 世间的，尘世的"
+                  },
+                  {
+                      "front":  "dimension",
+                      "back":  "n. 尺寸；维"
+                  },
+                  {
+                      "front":  "eligible",
+                      "back":  "adj. 适合的；胜任的"
+                  },
+                  {
+                      "front":  "permanent",
+                      "back":  "adj. 永久的"
+                  },
+                  {
+                      "front":  "memorize",
+                      "back":  "v. 熟记"
+                  },
+                  {
+                      "front":  "evaluation",
+                      "back":  "n. 评价"
+                  },
+                  {
+                      "front":  "literacy",
+                      "back":  "n. 教育；文化"
+                  },
+                  {
+                      "front":  "enviable",
+                      "back":  "adj. 值得羡慕的"
+                  },
+                  {
+                      "front":  "bipartisan",
+                      "back":  "adj. 两党的"
+                  },
+                  {
+                      "front":  "amend",
+                      "back":  "v. 修订"
+                  },
+                  {
+                      "front":  "interpret",
+                      "back":  "v. 解释；口译"
+                  },
+                  {
+                      "front":  "access",
+                      "back":  "v. 取得，获取"
+                  },
+                  {
+                      "front":  "champion",
+                      "back":  "v. 支持，拥护"
+                  },
+                  {
+                      "front":  "navigate",
+                      "back":  "v. 航行，驾驶"
+                  },
+                  {
+                      "front":  "intertwine",
+                      "back":  "v. 交织，纠缠"
+                  },
+                  {
+                      "front":  "collaborate",
+                      "back":  "v. 合作"
+                  },
+                  {
+                      "front":  "evaluate",
+                      "back":  "v. 评价"
+                  },
+                  {
+                      "front":  "domain",
+                      "back":  "n. 领域"
+                  },
+                  {
+                      "front":  "accumulate",
+                      "back":  "v. 积累"
+                  },
+                  {
+                      "front":  "persistent",
+                      "back":  "adj. 坚持不懈的，持续的"
+                  },
+                  {
+                      "front":  "boast",
+                      "back":  "v. 自夸"
+                  },
+                  {
+                      "front":  "assume",
+                      "back":  "v. 假定，认为"
+                  },
+                  {
+                      "front":  "forthcoming",
+                      "back":  "adj. 即将来临的"
+                  },
+                  {
+                      "front":  "mysteriously",
+                      "back":  "adv. 神秘地"
+                  },
+                  {
+                      "front":  "spoil",
+                      "back":  "v. 溺爱"
+                  },
+                  {
+                      "front":  "complement",
+                      "back":  "n. 补充"
+                  },
+                  {
+                      "front":  "immersive",
+                      "back":  "adj. 沉浸的，身临其境的"
+                  },
+                  {
+                      "front":  "cognitive",
+                      "back":  "adj. 认知的"
+                  },
+                  {
+                      "front":  "rhetorical",
+                      "back":  "adj. 修辞的"
+                  },
+                  {
+                      "front":  "impair",
+                      "back":  "v. 损害"
+                  },
+                  {
+                      "front":  "competent",
+                      "back":  "adj. 能胜任的，有能力的"
+                  },
+                  {
+                      "front":  "undermine",
+                      "back":  "v. 暗中削弱"
+                  },
+                  {
+                      "front":  "incompatibility",
+                      "back":  "n. 不兼容"
+                  },
+                  {
+                      "front":  "superficial",
+                      "back":  "adj. 表面的"
+                  },
+                  {
+                      "front":  "endanger",
+                      "back":  "v. 使……危险"
+                  },
+                  {
+                      "front":  "practice",
+                      "back":  "n. 做法"
+                  },
+                  {
+                      "front":  "decode",
+                      "back":  "v. 解码"
+                  },
+                  {
+                      "front":  "immigration",
+                      "back":  "n. 移民"
+                  },
+                  {
+                      "front":  "inescapable",
+                      "back":  "adj. 不可避免的"
+                  },
+                  {
+                      "front":  "utterly",
+                      "back":  "adv. 完全地，彻底地"
+                  },
+                  {
+                      "front":  "inanimate",
+                      "back":  "adj. 无生命的"
+                  },
+                  {
+                      "front":  "irreversible",
+                      "back":  "adj. 不可逆的；不可取消的"
+                  },
+                  {
+                      "front":  "incalculable",
+                      "back":  "adj. 不可估量的，无法计算的"
+                  },
+                  {
+                      "front":  "bump",
+                      "back":  "v. 颠簸"
+                  },
+                  {
+                      "front":  "demonstration",
+                      "back":  "n. 展示；游行"
+                  },
+                  {
+                      "front":  "desert",
+                      "back":  "v. 放弃，抛弃"
+                  },
+                  {
+                      "front":  "jail",
+                      "back":  "n. 监狱"
+                  },
+                  {
+                      "front":  "cozy",
+                      "back":  "adj. 舒适的"
+                  },
+                  {
+                      "front":  "lounge",
+                      "back":  "n. 休息室"
+                  },
+                  {
+                      "front":  "worship",
+                      "back":  "v. 崇拜，喜爱"
+                  },
+                  {
+                      "front":  "seasick",
+                      "back":  "adj. 晕船的"
+                  },
+                  {
+                      "front":  "interfere",
+                      "back":  "adj. 干涉，妨碍"
+                  },
+                  {
+                      "front":  "tension",
+                      "back":  "n. 紧张"
+                  },
+                  {
+                      "front":  "transition",
+                      "back":  "n. 过渡"
+                  },
+                  {
+                      "front":  "accidentally",
+                      "back":  "adv. 偶然地，意外地"
+                  },
+                  {
+                      "front":  "exertion",
+                      "back":  "n. 运用"
+                  },
+                  {
+                      "front":  "impart",
+                      "back":  "v. 传授，教授"
+                  },
+                  {
+                      "front":  "provoke",
+                      "back":  "v. 激怒"
+                  },
+                  {
+                      "front":  "assumption",
+                      "back":  "n. 假设"
+                  },
+                  {
+                      "front":  "formula",
+                      "back":  "n. 公式"
+                  },
+                  {
+                      "front":  "overlap",
+                      "back":  "v. 重叠"
+                  },
+                  {
+                      "front":  "thrive",
+                      "back":  "v. 繁荣，兴旺"
+                  },
+                  {
+                      "front":  "chronic",
+                      "back":  "adj. 长期的；慢性的"
+                  },
+                  {
+                      "front":  "adversity",
+                      "back":  "n. 逆境"
+                  },
+                  {
+                      "front":  "endure",
+                      "back":  "v. 忍受"
+                  },
+                  {
+                      "front":  "assert",
+                      "back":  "v. 主张，断言"
+                  },
+                  {
+                      "front":  "chew",
+                      "back":  "v. 咀嚼；深思"
+                  },
+                  {
+                      "front":  "tradeoff",
+                      "back":  "n. 权衡，交易"
+                  },
+                  {
+                      "front":  "commentator",
+                      "back":  "n. 评论员"
+                  },
+                  {
+                      "front":  "vice",
+                      "back":  "n. 恶意，恶习"
+                  },
+                  {
+                      "front":  "attribute",
+                      "back":  "v. 归因于"
+                  },
+                  {
+                      "front":  "vivid",
+                      "back":  "adj. 生动的"
+                  },
+                  {
+                      "front":  "upgrade",
+                      "back":  "v. 升级"
+                  },
+                  {
+                      "front":  "prospective",
+                      "back":  "adj. 未来的，预期的"
+                  },
+                  {
+                      "front":  "regime",
+                      "back":  "n. 制度，管理体制"
+                  },
+                  {
+                      "front":  "appeal",
+                      "back":  "n. 请求，呼吁, 上诉"
+                  },
+                  {
+                      "front":  "weave",
+                      "back":  "v. 织布，编织"
+                  },
+                  {
+                      "front":  "sew",
+                      "back":  "v. 缝上，缝纫"
+                  },
+                  {
+                      "front":  "nap",
+                      "back":  "n. 小睡"
+                  },
+                  {
+                      "front":  "row",
+                      "back":  "v. 划船"
+                  },
+                  {
+                      "front":  "helicopter",
+                      "back":  "n. 直升飞机"
+                  },
+                  {
+                      "front":  "conquer",
+                      "back":  "v. 征服"
+                  },
+                  {
+                      "front":  "memorandum",
+                      "back":  "n. 备忘录"
+                  },
+                  {
+                      "front":  "clarity",
+                      "back":  "n. 清晰，清楚"
+                  },
+                  {
+                      "front":  "carpenter",
+                      "back":  "n. 木匠"
+                  },
+                  {
+                      "front":  "drummer",
+                      "back":  "n. 鼓手"
+                  },
+                  {
+                      "front":  "discrimination",
+                      "back":  "n. 歧视"
+                  },
+                  {
+                      "front":  "uninformed",
+                      "back":  "adj. 无知的，未受过教育的"
+                  },
+                  {
+                      "front":  "entitle",
+                      "back":  "v. 使具有资格"
+                  },
+                  {
+                      "front":  "imitate",
+                      "back":  "v. 模仿"
+                  },
+                  {
+                      "front":  "subordinate",
+                      "back":  "adj. 次要的，从属的"
+                  },
+                  {
+                      "front":  "suppress",
+                      "back":  "v. 镇压，压制"
+                  },
+                  {
+                      "front":  "throne",
+                      "back":  "n. 王位"
+                  },
+                  {
+                      "front":  "athletics",
+                      "back":  "n. 体育运动"
+                  },
+                  {
+                      "front":  "coach",
+                      "back":  "n. 教练"
+                  },
+                  {
+                      "front":  "biodiversity",
+                      "back":  "n. 生物多样性"
+                  },
+                  {
+                      "front":  "accommodate",
+                      "back":  "v. 适应，容纳"
+                  },
+                  {
+                      "front":  "ultimate",
+                      "back":  "adj. 最终的"
+                  },
+                  {
+                      "front":  "invasive",
+                      "back":  "adj. 入侵的"
+                  },
+                  {
+                      "front":  "underscore",
+                      "back":  "v. 强调"
+                  },
+                  {
+                      "front":  "ongoing",
+                      "back":  "adj. 持续的，不间断的"
+                  },
+                  {
+                      "front":  "greedy",
+                      "back":  "adj. 贪婪的"
+                  },
+                  {
+                      "front":  "lessen",
+                      "back":  "v. 减少"
+                  },
+                  {
+                      "front":  "incur",
+                      "back":  "v. 引起，导致"
+                  },
+                  {
+                      "front":  "integral",
+                      "back":  "adj. 完整的"
+                  },
+                  {
+                      "front":  "merge",
+                      "back":  "v. 合并"
+                  },
+                  {
+                      "front":  "unintentionally",
+                      "back":  "adv. 无意地"
+                  },
+                  {
+                      "front":  "grave",
+                      "back":  "adj. 严重的"
+                  },
+                  {
+                      "front":  "intimate",
+                      "back":  "adj. 亲密的"
+                  },
+                  {
+                      "front":  "alleviate",
+                      "back":  "v. 减轻，缓解"
+                  },
+                  {
+                      "front":  "conspicuous",
+                      "back":  "adj. 显著的"
+                  },
+                  {
+                      "front":  "territory",
+                      "back":  "n. 领域，领土"
+                  },
+                  {
+                      "front":  "displace",
+                      "back":  "v. 取代"
+                  },
+                  {
+                      "front":  "regardless",
+                      "back":  "adj. 不管，不顾"
+                  },
+                  {
+                      "front":  "duplication",
+                      "back":  "n. 复制品"
+                  },
+                  {
+                      "front":  "overturn",
+                      "back":  "v. 推翻"
+                  },
+                  {
+                      "front":  "identical",
+                      "back":  "adj. 相同的"
+                  },
+                  {
+                      "front":  "miniature",
+                      "back":  "adj. 微型的"
+                  },
+                  {
+                      "front":  "tempting",
+                      "back":  "adj. 吸引人的"
+                  },
+                  {
+                      "front":  "segregation",
+                      "back":  "n. 隔离"
+                  },
+                  {
+                      "front":  "variance",
+                      "back":  "n. 不同"
+                  },
+                  {
+                      "front":  "inaction",
+                      "back":  "n. 不作为"
+                  },
+                  {
+                      "front":  "conserve",
+                      "back":  "v. 保留，保护"
+                  },
+                  {
+                      "front":  "renewable",
+                      "back":  "adj. 可再生的"
+                  },
+                  {
+                      "front":  "embrace",
+                      "back":  "v. 采纳，接受"
+                  },
+                  {
+                      "front":  "counterpart",
+                      "back":  "n. 对等物"
+                  },
+                  {
+                      "front":  "rival",
+                      "back":  "n. 对手"
+                  },
+                  {
+                      "front":  "intense",
+                      "back":  "adj. 激烈的，强烈的"
+                  },
+                  {
+                      "front":  "aspirational",
+                      "back":  "adj. 渴望的"
+                  },
+                  {
+                      "front":  "transform",
+                      "back":  "v. 转变"
+                  },
+                  {
+                      "front":  "grip",
+                      "back":  "n. 抓住"
+                  },
+                  {
+                      "front":  "unfold",
+                      "back":  "v. 展开"
+                  },
+                  {
+                      "front":  "ideological",
+                      "back":  "adj. 意识形态的"
+                  },
+                  {
+                      "front":  "filter",
+                      "back":  "v. 过滤"
+                  },
+                  {
+                      "front":  "pronoun",
+                      "back":  "n. 代词"
+                  },
+                  {
+                      "front":  "philosophy",
+                      "back":  "n. 哲学"
+                  },
+                  {
+                      "front":  "illuminate",
+                      "back":  "v. 阐释，阐明"
+                  },
+                  {
+                      "front":  "odds",
+                      "back":  "n. 可能性"
+                  },
+                  {
+                      "front":  "confess",
+                      "back":  "v. 承认"
+                  },
+                  {
+                      "front":  "manipulate",
+                      "back":  "v. 操纵"
+                  },
+                  {
+                      "front":  "rhythm",
+                      "back":  "n. 节奏"
+                  },
+                  {
+                      "front":  "hijack",
+                      "back":  "v. 劫持"
+                  },
+                  {
+                      "front":  "sweep",
+                      "back":  "v. 扫除，清除"
+                  },
+                  {
+                      "front":  "withdraw",
+                      "back":  "v. 撤销，撤退"
+                  },
+                  {
+                      "front":  "flame",
+                      "back":  "n. 火焰"
+                  },
+                  {
+                      "front":  "spark",
+                      "back":  "n. 火花"
+                  },
+                  {
+                      "front":  "feasibility",
+                      "back":  "n. 可行"
+                  },
+                  {
+                      "front":  "fascinate",
+                      "back":  "v. 使着迷"
+                  },
+                  {
+                      "front":  "crew",
+                      "back":  "n. 机组人员"
+                  },
+                  {
+                      "front":  "cumulative",
+                      "back":  "adj. 积累的"
+                  },
+                  {
+                      "front":  "awkward",
+                      "back":  "adj. 尴尬的，棘手的，笨拙的"
+                  },
+                  {
+                      "front":  "obscurity",
+                      "back":  "n. 默默无闻"
+                  },
+                  {
+                      "front":  "badge",
+                      "back":  "n. 标记, 徽章"
+                  },
+                  {
+                      "front":  "distinction",
+                      "back":  "n. 区分"
+                  },
+                  {
+                      "front":  "formulate",
+                      "back":  "v. 制定，规划"
+                  },
+                  {
+                      "front":  "monetary",
+                      "back":  "adj. 货币的"
+                  },
+                  {
+                      "front":  "portray",
+                      "back":  "v. 描述"
+                  },
+                  {
+                      "front":  "hostility",
+                      "back":  "n. 敌意"
+                  },
+                  {
+                      "front":  "robust",
+                      "back":  "adj. 强健的"
+                  },
+                  {
+                      "front":  "appropriation",
+                      "back":  "n. 挪用"
+                  },
+                  {
+                      "front":  "deforestation",
+                      "back":  "n. 砍伐森林"
+                  },
+                  {
+                      "front":  "puzzle",
+                      "back":  "v. 迷惑"
+                  },
+                  {
+                      "front":  "migration",
+                      "back":  "n. 迁徙，移居"
+                  },
+                  {
+                      "front":  "constrain",
+                      "back":  "v. 限制"
+                  },
+                  {
+                      "front":  "sneak",
+                      "back":  "v. 溜走"
+                  },
+                  {
+                      "front":  "margin",
+                      "back":  "n. 利润"
+                  },
+                  {
+                      "front":  "division",
+                      "back":  "n. 分歧"
+                  },
+                  {
+                      "front":  "privilege",
+                      "back":  "n. 特权"
+                  },
+                  {
+                      "front":  "imperial",
+                      "back":  "adj. 帝国的"
+                  },
+                  {
+                      "front":  "justice",
+                      "back":  "n. 公平"
+                  },
+                  {
+                      "front":  "opponent",
+                      "back":  "n. 反对者"
+                  },
+                  {
+                      "front":  "crush",
+                      "back":  "v. 压碎，压榨"
+                  },
+                  {
+                      "front":  "harness",
+                      "back":  "v. 管理，控制"
+                  },
+                  {
+                      "front":  "monopolize",
+                      "back":  "v. 垄断"
+                  },
+                  {
+                      "front":  "tremendous",
+                      "back":  "adj. 巨大的"
+                  },
+                  {
+                      "front":  "vital",
+                      "back":  "adj. 重要的"
+                  },
+                  {
+                      "front":  "imperative",
+                      "back":  "adj. 必须的,必要的"
+                  },
+                  {
+                      "front":  "initial",
+                      "back":  "adj. 初步的，最初的"
+                  },
+                  {
+                      "front":  "distract",
+                      "back":  "v. 分心，分散注意"
+                  },
+                  {
+                      "front":  "convincing",
+                      "back":  "adj. 令人信服的"
+                  },
+                  {
+                      "front":  "consult",
+                      "back":  "v. 咨询"
+                  },
+                  {
+                      "front":  "agony",
+                      "back":  "n. 痛苦"
+                  },
+                  {
+                      "front":  "refrain",
+                      "back":  "v. 抑制，避免"
+                  },
+                  {
+                      "front":  "thrilling",
+                      "back":  "adj. 令人兴奋的"
+                  },
+                  {
+                      "front":  "prematurely",
+                      "back":  "adv. 早熟地，过早地"
+                  },
+                  {
+                      "front":  "conscientious",
+                      "back":  "adj. 有良心的，认真负责的"
+                  },
+                  {
+                      "front":  "entail",
+                      "back":  "v. 使需要，使必须"
+                  },
+                  {
+                      "front":  "forge",
+                      "back":  "v. 铸造；伪造"
+                  },
+                  {
+                      "front":  "overstate",
+                      "back":  "v. 夸张"
+                  },
+                  {
+                      "front":  "accountable",
+                      "back":  "adj. 应负责的，有责任的"
+                  },
+                  {
+                      "front":  "pessimistic",
+                      "back":  "adj. 悲观的"
+                  },
+                  {
+                      "front":  "subsequently",
+                      "back":  "adv. 随后"
+                  },
+                  {
+                      "front":  "hack",
+                      "back":  "v. 黑客攻击"
+                  },
+                  {
+                      "front":  "liability",
+                      "back":  "n. 责任；债务"
+                  },
+                  {
+                      "front":  "conversion",
+                      "back":  "n. 转变"
+                  },
+                  {
+                      "front":  "needle",
+                      "back":  "n. 指针，针"
+                  },
+                  {
+                      "front":  "deterioration",
+                      "back":  "n. 恶化，退化"
+                  },
+                  {
+                      "front":  "fault",
+                      "back":  "n. 过失"
+                  },
+                  {
+                      "front":  "relay",
+                      "back":  "v. 接替，转播"
+                  },
+                  {
+                      "front":  "shrank",
+                      "back":  "v. 收缩(shrink过去式)"
+                  },
+                  {
+                      "front":  "transmit",
+                      "back":  "v. 传播，传导"
+                  },
+                  {
+                      "front":  "incidentally",
+                      "back":  "adv. 顺便地，附带"
+                  },
+                  {
+                      "front":  "notably",
+                      "back":  "adv. 显著地，尤其"
+                  },
+                  {
+                      "front":  "worldwide",
+                      "back":  "adv. 世界范围地，全世界"
+                  },
+                  {
+                      "front":  "rigor",
+                      "back":  "n. 严格"
+                  },
+                  {
+                      "front":  "readjust",
+                      "back":  "v. 重新调整，再调整"
+                  },
+                  {
+                      "front":  "prolong",
+                      "back":  "v. 延长"
+                  },
+                  {
+                      "front":  "redefine",
+                      "back":  "v. 重新定义"
+                  },
+                  {
+                      "front":  "controversial",
+                      "back":  "adj. 受到争议的"
+                  },
+                  {
+                      "front":  "degeneration",
+                      "back":  "n. 退化，变质"
+                  },
+                  {
+                      "front":  "malicious",
+                      "back":  "adj. 恶毒的"
+                  },
+                  {
+                      "front":  "widen",
+                      "back":  "v. 拓宽，变宽"
+                  },
+                  {
+                      "front":  "density",
+                      "back":  "n. 密度"
+                  },
+                  {
+                      "front":  "metropolitan",
+                      "back":  "adj. 大都市的"
+                  },
+                  {
+                      "front":  "prominent",
+                      "back":  "adj. 卓越的，突出的"
+                  },
+                  {
+                      "front":  "prevalence",
+                      "back":  "n. 流行，普遍"
+                  },
+                  {
+                      "front":  "compact",
+                      "back":  "adj. 紧密的，紧凑的"
+                  },
+                  {
+                      "front":  "correlation",
+                      "back":  "n. 相关，关联"
+                  },
+                  {
+                      "front":  "simulate",
+                      "back":  "v. 模拟，模仿"
+                  },
+                  {
+                      "front":  "momentum",
+                      "back":  "n. 动力，势头"
+                  },
+                  {
+                      "front":  "fixture",
+                      "back":  "n. 固定装置"
+                  },
+                  {
+                      "front":  "proposition",
+                      "back":  "n. 提议，主题"
+                  },
+                  {
+                      "front":  "dynamics",
+                      "back":  "n. 动力学"
+                  },
+                  {
+                      "front":  "descent",
+                      "back":  "n. 血统, 后裔"
+                  },
+                  {
+                      "front":  "affiliation",
+                      "back":  "n. 隶属关系，单位团体"
+                  },
+                  {
+                      "front":  "perception",
+                      "back":  "n. 看法；意识"
+                  },
+                  {
+                      "front":  "permeate",
+                      "back":  "v. 渗透"
+                  },
+                  {
+                      "front":  "recruiter",
+                      "back":  "n. 招聘者"
+                  },
+                  {
+                      "front":  "dilute",
+                      "back":  "v. 稀释，冲淡"
+                  },
+                  {
+                      "front":  "prioritize",
+                      "back":  "v. 优先"
+                  },
+                  {
+                      "front":  "privileged",
+                      "back":  "adj. 有特权的"
+                  },
+                  {
+                      "front":  "landmark",
+                      "back":  "adj. 有重大意义或影响的"
+                  },
+                  {
+                      "front":  "extracurricular",
+                      "back":  "adj. 课外的"
+                  },
+                  {
+                      "front":  "deprivation",
+                      "back":  "n. 剥夺，匮乏"
+                  },
+                  {
+                      "front":  "cater",
+                      "back":  "v. 迎合"
+                  },
+                  {
+                      "front":  "pierce",
+                      "back":  "v. 刺穿"
+                  },
+                  {
+                      "front":  "surpass",
+                      "back":  "v. 超过"
+                  },
+                  {
+                      "front":  "target",
+                      "back":  "v / n. 目标；把…作为目标"
+                  },
+                  {
+                      "front":  "ready",
+                      "back":  "adj. 乐意的，愿意的"
+                  },
+                  {
+                      "front":  "alternatively",
+                      "back":  "adv. 二选一地；非此即彼"
+                  },
+                  {
+                      "front":  "chronically",
+                      "back":  "adv. 慢性地；持久地"
+                  },
+                  {
+                      "front":  "frame",
+                      "back":  "v. 设计，建造"
+                  },
+                  {
+                      "front":  "mournful",
+                      "back":  "adj. 悲哀的；令人惋惜的"
+                  },
+                  {
+                      "front":  "cultivate",
+                      "back":  "v. 培养"
+                  },
+                  {
+                      "front":  "cornerstone",
+                      "back":  "n. 基石"
+                  },
+                  {
+                      "front":  "legalize",
+                      "back":  "v. 合法化"
+                  },
+                  {
+                      "front":  "rigid",
+                      "back":  "adj. 严格的"
+                  },
+                  {
+                      "front":  "certify",
+                      "back":  "v. 保证，证明"
+                  },
+                  {
+                      "front":  "orbit",
+                      "back":  "n. 轨道"
+                  },
+                  {
+                      "front":  "astronomical",
+                      "back":  "adj. 天文数字的"
+                  },
+                  {
+                      "front":  "Automatically",
+                      "back":  "adv. 自动地；不经思考地"
+                  },
+                  {
+                      "front":  "existence",
+                      "back":  "n. 存在，生存"
+                  },
+                  {
+                      "front":  "intolerant",
+                      "back":  "adj. 无法容忍的"
+                  },
+                  {
+                      "front":  "occupation",
+                      "back":  "n. 职业"
+                  },
+                  {
+                      "front":  "slightly",
+                      "back":  "adv. 轻微地"
+                  },
+                  {
+                      "front":  "exploit",
+                      "back":  "v. 开发，开采"
+                  },
+                  {
+                      "front":  "regarding",
+                      "back":  "prep. 关于"
+                  },
+                  {
+                      "front":  "ecosystem",
+                      "back":  "n. 生态系统"
+                  },
+                  {
+                      "front":  "noted",
+                      "back":  "adj. 著名的"
+                  },
+                  {
+                      "front":  "incorporate",
+                      "back":  "v. 合并；体现"
+                  },
+                  {
+                      "front":  "interactive",
+                      "back":  "adj. 互相作用的，互相影响的"
+                  },
+                  {
+                      "front":  "novel",
+                      "back":  "adj. 新颖的"
+                  },
+                  {
+                      "front":  "mismanagement",
+                      "back":  "n. 管理不当"
+                  },
+                  {
+                      "front":  "irrational",
+                      "back":  "adj. 不合理的，不理性的"
+                  },
+                  {
+                      "front":  "groundless",
+                      "back":  "adj. 无理由的，无根据的"
+                  },
+                  {
+                      "front":  "restructure",
+                      "back":  "v. 调整，重建"
+                  },
+                  {
+                      "front":  "stimulus",
+                      "back":  "n. 刺激"
+                  },
+                  {
+                      "front":  "feasible",
+                      "back":  "adj. 可行的"
+                  },
+                  {
+                      "front":  "adaptation",
+                      "back":  "n. 适应；改编"
+                  },
+                  {
+                      "front":  "institute",
+                      "back":  "n. 研究所，学会，学院"
+                  },
+                  {
+                      "front":  "biochemistry",
+                      "back":  "n. 生物化学"
+                  },
+                  {
+                      "front":  "entrepreneur",
+                      "back":  "n. 企业家"
+                  },
+                  {
+                      "front":  "arise",
+                      "back":  "v. 出现"
+                  },
+                  {
+                      "front":  "ascend",
+                      "back":  "v. 上升"
+                  },
+                  {
+                      "front":  "combination",
+                      "back":  "n. 组合，结合"
+                  },
+                  {
+                      "front":  "definite",
+                      "back":  "adj. 一定的，确切的"
+                  },
+                  {
+                      "front":  "preserve",
+                      "back":  "v. 保存，保护"
+                  },
+                  {
+                      "front":  "program",
+                      "back":  "v. 计划，安排"
+                  },
+                  {
+                      "front":  "proximately",
+                      "back":  "adv. 近似，接近"
+                  },
+                  {
+                      "front":  "lobbyist",
+                      "back":  "n. 游说者"
+                  },
+                  {
+                      "front":  "redundant",
+                      "back":  "adj. 过剩的；失业的，被解雇的"
+                  },
+                  {
+                      "front":  "insurer",
+                      "back":  "n. 保险公司；承保人"
+                  },
+                  {
+                      "front":  "overestimate",
+                      "back":  "v. 高估"
+                  },
+                  {
+                      "front":  "cropland",
+                      "back":  "n. 农田"
+                  },
+                  {
+                      "front":  "irrigation",
+                      "back":  "n. 灌溉"
+                  },
+                  {
+                      "front":  "contaminate",
+                      "back":  "v. 污染，弄脏"
+                  },
+                  {
+                      "front":  "untreated",
+                      "back":  "adj. 未经处理的"
+                  },
+                  {
+                      "front":  "sanitation",
+                      "back":  "n. 卫生环境，卫生设备"
+                  },
+                  {
+                      "front":  "echo",
+                      "back":  "v. 随声附和，发出回声"
+                  },
+                  {
+                      "front":  "duplicate",
+                      "back":  "n. 副本，复制品"
+                  },
+                  {
+                      "front":  "elevate",
+                      "back":  "v. 提升，举起；使高兴"
+                  },
+                  {
+                      "front":  "illustrate",
+                      "back":  "v. 阐明，说明"
+                  },
+                  {
+                      "front":  "inquire",
+                      "back":  "v. 询问"
+                  },
+                  {
+                      "front":  "prevail",
+                      "back":  "v. 流行，普遍"
+                  },
+                  {
+                      "front":  "strap",
+                      "back":  "v. 用带帮助"
+                  },
+                  {
+                      "front":  "turbulent",
+                      "back":  "adj. 动荡的，骚乱的"
+                  },
+                  {
+                      "front":  "rebellion",
+                      "back":  "n. 叛逆"
+                  },
+                  {
+                      "front":  "lofty",
+                      "back":  "adj. 崇高的"
+                  },
+                  {
+                      "front":  "render",
+                      "back":  "v. 给予"
+                  },
+                  {
+                      "front":  "recyclable",
+                      "back":  "adj. 可回收利用的"
+                  },
+                  {
+                      "front":  "trick",
+                      "back":  "n. 骗局，诡计"
+                  },
+                  {
+                      "front":  "certification",
+                      "back":  "n. 证明，保证"
+                  },
+                  {
+                      "front":  "prevailing",
+                      "back":  "adj. 流行的"
+                  },
+                  {
+                      "front":  "misled",
+                      "back":  "(mislead过去式)误导"
+                  },
+                  {
+                      "front":  "elimination",
+                      "back":  "n. 消除，淘汰"
+                  },
+                  {
+                      "front":  "unqualified",
+                      "back":  "adj. 不合格的，不胜任的"
+                  },
+                  {
+                      "front":  "subconscious",
+                      "back":  "adj. 下意识的，潜意识的"
+                  },
+                  {
+                      "front":  "incompetent",
+                      "back":  "adj. 无能力的，不胜任的"
+                  },
+                  {
+                      "front":  "discriminate",
+                      "back":  "v. 歧视；区别"
+                  },
+                  {
+                      "front":  "elegant",
+                      "back":  "adj. 高雅的，雅致的"
+                  },
+                  {
+                      "front":  "gown",
+                      "back":  "n. 长袍"
+                  },
+                  {
+                      "front":  "bride",
+                      "back":  "n. 新娘"
+                  },
+                  {
+                      "front":  "costume",
+                      "back":  "n. 服装"
+                  },
+                  {
+                      "front":  "trade",
+                      "back":  "v. 做买卖；交换"
+                  },
+                  {
+                      "front":  "deal",
+                      "back":  "v. 买卖毒品"
+                  },
+                  {
+                      "front":  "hike",
+                      "back":  "v. 作长途徒步旅行"
+                  },
+                  {
+                      "front":  "action",
+                      "back":  "n. 行动"
+                  },
+                  {
+                      "front":  "resultant",
+                      "back":  "adj. 作为结果而发生的"
+                  },
+                  {
+                      "front":  "consequent",
+                      "back":  "adj. 作为结果的；必然的"
+                  },
+                  {
+                      "front":  "composer",
+                      "back":  "n. 作曲家"
+                  },
+                  {
+                      "front":  "slave",
+                      "back":  "v. 作苦工；奴役"
+                  },
+                  {
+                      "front":  "grunt",
+                      "back":  "v. 作呼噜声；咕哝"
+                  },
+                  {
+                      "front":  "abide",
+                      "back":  "v. 忍受；遵守"
+                  },
+                  {
+                      "front":  "value",
+                      "back":  "v. 尊重，重视；估价"
+                  },
+                  {
+                      "front":  "dignity",
+                      "back":  "n. 庄重；尊严；体面"
+                  },
+                  {
+                      "front":  "outermost",
+                      "back":  "adj. 最外面的，最远的"
+                  },
+                  {
+                      "front":  "optimum",
+                      "back":  "adj. 最优的，最适宜的"
+                  },
+                  {
+                      "front":  "initially",
+                      "back":  "adv. 最初，开始"
+                  },
+                  {
+                      "front":  "makeup",
+                      "back":  "n. 化妆品；性格；构造；组成"
+                  },
+                  {
+                      "front":  "block",
+                      "back":  "n. 阻塞；障碍物"
+                  },
+                  {
+                      "front":  "damn",
+                      "back":  "v. 谴责"
+                  },
+                  {
+                      "front":  "ample",
+                      "back":  "adj. 足够的；宽敞的"
+                  },
+                  {
+                      "front":  "suffice",
+                      "back":  "v. 足够"
+                  },
+                  {
+                      "front":  "lease",
+                      "back":  "n. 租约，契约，租契"
+                  },
+                  {
+                      "front":  "charter",
+                      "back":  "v. 包租（飞机、船等）"
+                  },
+                  {
+                      "front":  "headquarters",
+                      "back":  "n. 总部"
+                  },
+                  {
+                      "front":  "main",
+                      "back":  "n. 总管道，干线"
+                  },
+                  {
+                      "front":  "overall",
+                      "back":  "adj. 总的"
+                  },
+                  {
+                      "front":  "conceit",
+                      "back":  "n. 自负，自高自大"
+                  },
+                  {
+                      "front":  "ultraviolet",
+                      "back":  "adj. 紫外（线）的"
+                  },
+                  {
+                      "front":  "endow",
+                      "back":  "v. 资助；赋予"
+                  },
+                  {
+                      "front":  "datum",
+                      "back":  "n. 资料；数据；已知数"
+                  },
+                  {
+                      "front":  "bourgeois",
+                      "back":  "adj. 中产阶级的；庸俗的；资产阶级的"
+                  },
+                  {
+                      "front":  "woodpecker",
+                      "back":  "n. 啄木鸟"
+                  },
+                  {
+                      "front":  "crash",
+                      "back":  "v. （发出巨响的） 猛撞"
+                  },
+                  {
+                      "front":  "way",
+                      "back":  "n. （特定的）状态，状况"
+                  },
+                  {
+                      "front":  "superb",
+                      "back":  "adj. 壮丽的；超等的"
+                  },
+                  {
+                      "front":  "ornament",
+                      "back":  "n. 装饰物"
+                  },
+                  {
+                      "front":  "decorative",
+                      "back":  "adj. 装饰的；可作装饰的"
+                  },
+                  {
+                      "front":  "ornamental",
+                      "back":  "adj. 装饰的"
+                  },
+                  {
+                      "front":  "shipment",
+                      "back":  "n. 装载的货物；装货"
+                  },
+                  {
+                      "front":  "can",
+                      "back":  "v. 装罐头"
+                  },
+                  {
+                      "front":  "array",
+                      "back":  "v. （美观地）排列; n. 陈列"
+                  },
+                  {
+                      "front":  "torque",
+                      "back":  "n. 转（力）矩，扭（力）矩"
+                  },
+                  {
+                      "front":  "box",
+                      "back":  "n. （法庭的）专席"
+                  },
+                  {
+                      "front":  "workshop",
+                      "back":  "n. 专题讨论会"
+                  },
+                  {
+                      "front":  "patent",
+                      "back":  "adj. 专利的; n. 专利"
+                  },
+                  {
+                      "front":  "clutch",
+                      "back":  "v. 抓住，掌握，攫"
+                  },
+                  {
+                      "front":  "nest",
+                      "back":  "v. 筑巢，为…筑巢"
+                  },
+                  {
+                      "front":  "coin",
+                      "back":  "v. 铸造（硬币）"
+                  },
+                  {
+                      "front":  "watchful",
+                      "back":  "adj. 注意的，警惕的"
+                  },
+                  {
+                      "front":  "inject",
+                      "back":  "v. 注射；注满；喷射"
+                  },
+                  {
+                      "front":  "storage",
+                      "back":  "n. 贮藏；保管"
+                  },
+                  {
+                      "front":  "principally",
+                      "back":  "adv. 主要，大抵"
+                  },
+                  {
+                      "front":  "stalk",
+                      "back":  "n. 主茎，叶柄"
+                  },
+                  {
+                      "front":  "preside",
+                      "back":  "v. 主持；主奏"
+                  },
+                  {
+                      "front":  "eject",
+                      "back":  "v. 逐出，排斥；喷射"
+                  },
+                  {
+                      "front":  "bamboo",
+                      "back":  "n. 竹；竹杆，竹棍"
+                  },
+                  {
+                      "front":  "jewellery",
+                      "back":  "n. 珠宝，珠宝饰物"
+                  },
+                  {
+                      "front":  "wrinkle",
+                      "back":  "n. 皱纹; vt. 使起皱纹"
+                  },
+                  {
+                      "front":  "axial",
+                      "back":  "adj. 轴的；轴向的"
+                  },
+                  {
+                      "front":  "axis",
+                      "back":  "n. 轴，轴线"
+                  },
+                  {
+                      "front":  "ambient",
+                      "back":  "adj. 周围的，包围着的"
+                  },
+                  {
+                      "front":  "periodic",
+                      "back":  "adj. 周期的；一定时期的"
+                  },
+                  {
+                      "front":  "anniversary",
+                      "back":  "n. 周年纪念日"
+                  },
+                  {
+                      "front":  "peripheral",
+                      "back":  "adj. 外围的的；末梢的"
+                  },
+                  {
+                      "front":  "perimeter",
+                      "back":  "n. 周（边）；周长"
+                  },
+                  {
+                      "front":  "anybody",
+                      "back":  "n. 重要人物"
+                  },
+                  {
+                      "front":  "responsible",
+                      "back":  "adj. 可靠的；责任重大的"
+                  },
+                  {
+                      "front":  "consequence",
+                      "back":  "n. 重要（性），重大意义"
+                  },
+                  {
+                      "front":  "hearty",
+                      "back":  "adj. 热情友好的；丰盛的"
+                  },
+                  {
+                      "front":  "neutron",
+                      "back":  "n. 中子"
+                  },
+                  {
+                      "front":  "intermediate",
+                      "back":  "n. 中间体；调解人"
+                  },
+                  {
+                      "front":  "proton",
+                      "back":  "n. 质子，氕核"
+                  },
+                  {
+                      "front":  "qualitative",
+                      "back":  "adj. 质的；定性的"
+                  },
+                  {
+                      "front":  "fabricate",
+                      "back":  "v. 捏造；制作"
+                  },
+                  {
+                      "front":  "fabrication",
+                      "back":  "n. 捏造；制作"
+                  },
+                  {
+                      "front":  "volunteer",
+                      "back":  "n. 志愿者; v. 志愿"
+                  },
+                  {
+                      "front":  "rebuke",
+                      "back":  "v. 指责，非难，斥责"
+                  },
+                  {
+                      "front":  "denote",
+                      "back":  "v. 指示，意味着"
+                  },
+                  {
+                      "front":  "instructor",
+                      "back":  "n. 指导者，教员"
+                  },
+                  {
+                      "front":  "colonial",
+                      "back":  "adj. 殖民地的，殖民的"
+                  },
+                  {
+                      "front":  "vocation",
+                      "back":  "n. 职业，行业"
+                  },
+                  {
+                      "front":  "notable",
+                      "back":  "adj. 值得注意的；著名的"
+                  },
+                  {
+                      "front":  "weaver",
+                      "back":  "n. 织布工，编织者"
+                  },
+                  {
+                      "front":  "brace",
+                      "back":  "n. 支柱; v. 拉紧，撑牢"
+                  },
+                  {
+                      "front":  "second",
+                      "back":  "v. 支持"
+                  },
+                  {
+                      "front":  "bearing",
+                      "back":  "n. 方位；（机器的）承座；轴承；忍受"
+                  },
+                  {
+                      "front":  "politics",
+                      "back":  "n. 政纲，政见，策略"
+                  },
+                  {
+                      "front":  "platform",
+                      "back":  "n. 政纲，党纲，宣言"
+                  },
+                  {
+                      "front":  "confirmation",
+                      "back":  "n. 证实，确定；确认"
+                  },
+                  {
+                      "front":  "audience",
+                      "back":  "n. 正式会见；拜会"
+                  },
+                  {
+                      "front":  "correctly",
+                      "back":  "adv. 正确地，恰当地"
+                  },
+                  {
+                      "front":  "positive",
+                      "back":  "adj. 正的，阳性的；正的，正极的，阳性的；正的，正数的"
+                  },
+                  {
+                      "front":  "normalization",
+                      "back":  "n. 正常化，标准化"
+                  },
+                  {
+                      "front":  "sign",
+                      "back":  "n. 征兆，迹象，病症"
+                  },
+                  {
+                      "front":  "conqueror",
+                      "back":  "n. 征服者，胜利者"
+                  },
+                  {
+                      "front":  "gust",
+                      "back":  "n. 阵风，一阵狂风"
+                  },
+                  {
+                      "front":  "clinic",
+                      "back":  "n. 诊所，医务室；会诊；会诊时间；门诊时间"
+                  },
+                  {
+                      "front":  "sincerity",
+                      "back":  "n. 真诚，诚意；真实"
+                  },
+                  {
+                      "front":  "cherish",
+                      "back":  "v. 珍爱；怀有（感情）"
+                  },
+                  {
+                      "front":  "underline",
+                      "back":  "v. 着重；强调; n. 预告"
+                  },
+                  {
+                      "front":  "grind",
+                      "back":  "v. 磨碎，碾碎，把...磨成粉"
+                  },
+                  {
+                      "front":  "discount",
+                      "back":  "n. 折扣; v. 打折扣卖"
+                  },
+                  {
+                      "front":  "literally",
+                      "back":  "adv. 照字义，逐字地"
+                  },
+                  {
+                      "front":  "summon",
+                      "back":  "v. 召唤；鼓起（勇气）"
+                  },
+                  {
+                      "front":  "marsh",
+                      "back":  "n. 沼泽地，湿地"
+                  },
+                  {
+                      "front":  "entertainment",
+                      "back":  "n. 招待，招待会"
+                  },
+                  {
+                      "front":  "hindrance",
+                      "back":  "n. 障碍，妨碍"
+                  },
+                  {
+                      "front":  "hose",
+                      "back":  "n. 软管；袜类（包括连裤袜、长筒袜、短袜）"
+                  },
+                  {
+                      "front":  "sofa",
+                      "back":  "n. 长沙发，沙发"
+                  },
+                  {
+                      "front":  "tensile",
+                      "back":  "adj. 张力的；能伸长的"
+                  },
+                  {
+                      "front":  "warfare",
+                      "back":  "n. 战争，战争状态"
+                  },
+                  {
+                      "front":  "predominant",
+                      "back":  "adj. 占优势的；主要的"
+                  },
+                  {
+                      "front":  "cling",
+                      "back":  "v. 粘住；依附；坚持"
+                  },
+                  {
+                      "front":  "viscous",
+                      "back":  "adj. 粘滞的，粘性的"
+                  },
+                  {
+                      "front":  "coherent",
+                      "back":  "adj. （文章、观点等）连贯的，有条理的，一致的"
+                  },
+                  {
+                      "front":  "album",
+                      "back":  "n. （收存照片或邮票的） 册子"
+                  },
+                  {
+                      "front":  "glue",
+                      "back":  "v. 粘牢"
+                  },
+                  {
+                      "front":  "cement",
+                      "back":  "v. 粘结"
+                  },
+                  {
+                      "front":  "adhere",
+                      "back":  "v. 粘附；追随；坚持"
+                  },
+                  {
+                      "front":  "grasshopper",
+                      "back":  "n. 蚱蜢，蝗虫，蚂蚱"
+                  },
+                  {
+                      "front":  "wink",
+                      "back":  "v. 眨眼；使眼色"
+                  },
+                  {
+                      "front":  "further",
+                      "back":  "v. 增进"
+                  },
+                  {
+                      "front":  "multiplication",
+                      "back":  "n. 乘法；增加"
+                  },
+                  {
+                      "front":  "shipbuilding",
+                      "back":  "n. 造船（业），造船学"
+                  },
+                  {
+                      "front":  "mint",
+                      "back":  "n. 造币厂；巨额钱财"
+                  },
+                  {
+                      "front":  "hollow",
+                      "back":  "v. 凿空，挖空"
+                  },
+                  {
+                      "front":  "hymn",
+                      "back":  "n. 赞美诗，圣歌；赞歌"
+                  },
+                  {
+                      "front":  "glorify",
+                      "back":  "v. 赞美；颂扬（上帝）"
+                  },
+                  {
+                      "front":  "fore",
+                      "back":  "adv. 在（或向）船头；在（或向）飞行器头部"
+                  },
+                  {
+                      "front":  "therein",
+                      "back":  "adv. 在那里"
+                  },
+                  {
+                      "front":  "overseas",
+                      "back":  "adv. 在海外，（向）国外"
+                  },
+                  {
+                      "front":  "ashore",
+                      "back":  "adv. 在岸上，上岸"
+                  },
+                  {
+                      "front":  "outside",
+                      "back":  "prep. 在…外，向…外"
+                  },
+                  {
+                      "front":  "brand",
+                      "back":  "v. 在…上打烙印"
+                  },
+                  {
+                      "front":  "alongside",
+                      "back":  "prep. 在…旁边"
+                  },
+                  {
+                      "front":  "roam",
+                      "back":  "v. 在…漫步，漫游"
+                  },
+                  {
+                      "front":  "over",
+                      "back":  "prep. 在（做）…时"
+                  },
+                  {
+                      "front":  "disastrous",
+                      "back":  "adj. 灾难性的；悲惨的"
+                  },
+                  {
+                      "front":  "operation",
+                      "back":  "n. 运算"
+                  },
+                  {
+                      "front":  "freight",
+                      "back":  "n. 货运；运费"
+                  },
+                  {
+                      "front":  "locomotive",
+                      "back":  "adj. 运动的；机动"
+                  },
+                  {
+                      "front":  "lunar",
+                      "back":  "adj. 月亮的"
+                  },
+                  {
+                      "front":  "dome",
+                      "back":  "n. 圆屋顶，拱顶"
+                  },
+                  {
+                      "front":  "cylinder",
+                      "back":  "n. 圆筒；柱（面）；汽缸"
+                  },
+                  {
+                      "front":  "satisfactorily",
+                      "back":  "adv. 圆满地"
+                  },
+                  {
+                      "front":  "nucleus",
+                      "back":  "n. 原子核，细胞核"
+                  },
+                  {
+                      "front":  "prototype",
+                      "back":  "n. 原型；典型，范例"
+                  },
+                  {
+                      "front":  "vowel",
+                      "back":  "n. 元音；元音字母"
+                  },
+                  {
+                      "front":  "marshal",
+                      "back":  "n. 元帅；陆军元帅"
+                  },
+                  {
+                      "front":  "subscription",
+                      "back":  "n. 订阅（费）；用户费（的缴纳）"
+                  },
+                  {
+                      "front":  "prophet",
+                      "back":  "n. 预言家，先知"
+                  },
+                  {
+                      "front":  "prophecy",
+                      "back":  "n. 预言；预言能力"
+                  },
+                  {
+                      "front":  "prediction",
+                      "back":  "n. 预言，预告；预报"
+                  },
+                  {
+                      "front":  "preset",
+                      "back":  "v. 预先装置"
+                  },
+                  {
+                      "front":  "beforehand",
+                      "back":  "adv. 预先；提前地"
+                  },
+                  {
+                      "front":  "budget",
+                      "back":  "n. 预算；〔政府的〕"
+                  },
+                  {
+                      "front":  "foresee",
+                      "back":  "v. 预见，预知，看穿"
+                  },
+                  {
+                      "front":  "prevention",
+                      "back":  "n. 预防，阻止，妨碍"
+                  },
+                  {
+                      "front":  "tulip",
+                      "back":  "n. 郁金香"
+                  },
+                  {
+                      "front":  "intonation",
+                      "back":  "n. 语调，声调；发声"
+                  },
+                  {
+                      "front":  "cosmic",
+                      "back":  "adj. 宇宙的；广大无边的，极大的"
+                  },
+                  {
+                      "front":  "cosmos",
+                      "back":  "n. 宇宙"
+                  },
+                  {
+                      "front":  "excuse",
+                      "back":  "v. 为…辩解；使免除"
+                  },
+                  {
+                      "front":  "senseless",
+                      "back":  "adj. 愚蠢的，无意义的"
+                  },
+                  {
+                      "front":  "amusement",
+                      "back":  "n. 乐趣；娱乐，消遣"
+                  },
+                  {
+                      "front":  "torpedo",
+                      "back":  "n. 鱼雷，水雷"
+                  },
+                  {
+                      "front":  "roundabout",
+                      "back":  "adj. 转弯抹角的；迂回的"
+                  },
+                  {
+                      "front":  "guilt",
+                      "back":  "n. 内疚；有罪，犯罪"
+                  },
+                  {
+                      "front":  "shadowy",
+                      "back":  "adj. 有影的；幽暗的"
+                  },
+                  {
+                      "front":  "avail",
+                      "back":  "v. 有益于，有用; n. 效用"
+                  },
+                  {
+                      "front":  "ambitious",
+                      "back":  "adj. 有雄心的；热望的"
+                  },
+                  {
+                      "front":  "availability",
+                      "back":  "n. 有效（性）；可得性"
+                  },
+                  {
+                      "front":  "finite",
+                      "back":  "adj. 有限的；有尽的"
+                  },
+                  {
+                      "front":  "magnet",
+                      "back":  "n. 有吸引力的人（或物）"
+                  },
+                  {
+                      "front":  "advantageous",
+                      "back":  "adj. 有利的，有助的"
+                  },
+                  {
+                      "front":  "courteous",
+                      "back":  "adj. 有礼貌的，谦恭的"
+                  },
+                  {
+                      "front":  "bead",
+                      "back":  "n. 有孔小珠；水珠；露珠"
+                  },
+                  {
+                      "front":  "commonsense",
+                      "back":  "adj. 有常识的"
+                  },
+                  {
+                      "front":  "liable",
+                      "back":  "adj. 有（法律）责任的"
+                  },
+                  {
+                      "front":  "yacht",
+                      "back":  "n. 游艇，快艇"
+                  },
+                  {
+                      "front":  "uranium",
+                      "back":  "n. 铀"
+                  },
+                  {
+                      "front":  "tanker",
+                      "back":  "n. 油船；空中加油飞机"
+                  },
+                  {
+                      "front":  "postal",
+                      "back":  "adj. 邮政的，邮局的"
+                  },
+                  {
+                      "front":  "superiority",
+                      "back":  "n. 优越（性），优势"
+                  },
+                  {
+                      "front":  "elbow",
+                      "back":  "v. 用肘挤，挤进"
+                  },
+                  {
+                      "front":  "paper",
+                      "back":  "v. 贴壁纸"
+                  },
+                  {
+                      "front":  "cutter",
+                      "back":  "n. 用于切割的器械"
+                  },
+                  {
+                      "front":  "net",
+                      "back":  "v. 用网捕；用网覆盖"
+                  },
+                  {
+                      "front":  "head",
+                      "back":  "v. 用头顶（球）；朝...行进"
+                  },
+                  {
+                      "front":  "tug",
+                      "back":  "v. 用力拖; n. 猛拉，拖"
+                  },
+                  {
+                      "front":  "hook",
+                      "back":  "v. （使）钩住，挂住"
+                  },
+                  {
+                      "front":  "sniff",
+                      "back":  "v. 用鼻子吸，嗅"
+                  },
+                  {
+                      "front":  "courageous",
+                      "back":  "adj. 勇敢的，无畏的"
+                  },
+                  {
+                      "front":  "emigrate",
+                      "back":  "v. 永久移居国外"
+                  },
+                  {
+                      "front":  "everlasting",
+                      "back":  "adj. 永久的；持久的"
+                  },
+                  {
+                      "front":  "eternal",
+                      "back":  "adj. 永久的；不朽的"
+                  },
+                  {
+                      "front":  "stiffness",
+                      "back":  "n. 硬度"
+                  },
+                  {
+                      "front":  "comply",
+                      "back":  "v. 应允，遵照，照做"
+                  },
+                  {
+                      "front":  "bound",
+                      "back":  "adj. 应当的；必定的"
+                  },
+                  {
+                      "front":  "salute",
+                      "back":  "v. （向…）行军礼，（向…）致敬"
+                  },
+                  {
+                      "front":  "press",
+                      "back":  "n. 出版社；印刷所；印刷机"
+                  },
+                  {
+                      "front":  "printer",
+                      "back":  "n. 印刷工；印花工"
+                  },
+                  {
+                      "front":  "harbour",
+                      "back":  "v. 怀着（不好的想法、恐惧或希望）；包含，藏有；窝藏"
+                  },
+                  {
+                      "front":  "diet",
+                      "back":  "n. 日常饮食，日常食物"
+                  },
+                  {
+                      "front":  "tempt",
+                      "back":  "v. 引诱，诱惑，劝诱"
+                  },
+                  {
+                      "front":  "cite",
+                      "back":  "v. 引证；引用；〔法院〕传召，传讯"
+                  },
+                  {
+                      "front":  "ignite",
+                      "back":  "v. 引燃，着火"
+                  },
+                  {
+                      "front":  "derivation",
+                      "back":  "n. 引出；起源；衍生"
+                  },
+                  {
+                      "front":  "banker",
+                      "back":  "n. 银行家"
+                  },
+                  {
+                      "front":  "obscure",
+                      "back":  "adj. 无名的；鲜为人知的"
+                  },
+                  {
+                      "front":  "inasmuch",
+                      "back":  "adv. 因为，由于"
+                  },
+                  {
+                      "front":  "through",
+                      "back":  "prep. 因为，由于"
+                  },
+                  {
+                      "front":  "consciousness",
+                      "back":  "n. 意识；知觉"
+                  },
+                  {
+                      "front":  "observation",
+                      "back":  "n. 意见，短评，按语"
+                  },
+                  {
+                      "front":  "cross",
+                      "back":  "adj. 恼怒的"
+                  },
+                  {
+                      "front":  "restrain",
+                      "back":  "v. 制止；抑制"
+                  },
+                  {
+                      "front":  "singular",
+                      "back":  "adj. 异常的，奇异的"
+                  },
+                  {
+                      "front":  "house",
+                      "back":  "n. 议院，会议厅"
+                  },
+                  {
+                      "front":  "obligation",
+                      "back":  "n. 义务，职责，责任"
+                  },
+                  {
+                      "front":  "formerly",
+                      "back":  "adv. 以前，从前"
+                  },
+                  {
+                      "front":  "veil",
+                      "back":  "v. 以面纱遮掩；遮盖"
+                  },
+                  {
+                      "front":  "forsake",
+                      "back":  "v. 遗弃，抛弃；摒绝，摒弃"
+                  },
+                  {
+                      "front":  "transmission",
+                      "back":  "n. 传播，传染"
+                  },
+                  {
+                      "front":  "displacement",
+                      "back":  "n. 移置；免职；置换"
+                  },
+                  {
+                      "front":  "colonist",
+                      "back":  "n. 移民；殖民地居民"
+                  },
+                  {
+                      "front":  "instrumental",
+                      "back":  "adj. 器乐的；有帮助的"
+                  },
+                  {
+                      "front":  "wardrobe",
+                      "back":  "n. 衣柜，衣橱，藏衣室"
+                  },
+                  {
+                      "front":  "garment",
+                      "back":  "n. 衣服；服装，衣着"
+                  },
+                  {
+                      "front":  "Islam",
+                      "back":  "n. 伊斯兰教，回教"
+                  },
+                  {
+                      "front":  "evenly",
+                      "back":  "adv. 一致地；平静地"
+                  },
+                  {
+                      "front":  "compatible",
+                      "back":  "adj. 兼容的"
+                  },
+                  {
+                      "front":  "stitch",
+                      "back":  "n. 一针，缝线; v. 缝"
+                  },
+                  {
+                      "front":  "troop",
+                      "back":  "n. 一群，一队，大量"
+                  },
+                  {
+                      "front":  "concert",
+                      "back":  "n. 一齐，一致，协作"
+                  },
+                  {
+                      "front":  "chop",
+                      "back":  "n. 一块排骨，肉块"
+                  },
+                  {
+                      "front":  "baby",
+                      "back":  "n. 一家中年龄最小的人"
+                  },
+                  {
+                      "front":  "episode",
+                      "back":  "n. （人生的）一段经历；（小说的）片段，插曲"
+                  },
+                  {
+                      "front":  "cluster",
+                      "back":  "n. 串，束，簇；群，组; v. 群聚；聚集"
+                  },
+                  {
+                      "front":  "generalization",
+                      "back":  "n. 一般化；概括，综合"
+                  },
+                  {
+                      "front":  "burglar",
+                      "back":  "n. 夜盗，窃贼"
+                  },
+                  {
+                      "front":  "amateur",
+                      "back":  "adj. 业余的; n. 业余爱好者"
+                  },
+                  {
+                      "front":  "metallurgy",
+                      "back":  "n. 冶金学，冶金术"
+                  },
+                  {
+                      "front":  "Jesus",
+                      "back":  "n. 耶稣"
+                  },
+                  {
+                      "front":  "fort",
+                      "back":  "n. 要塞，堡垒"
+                  },
+                  {
+                      "front":  "postulate",
+                      "back":  "v. 假定，假设"
+                  },
+                  {
+                      "front":  "prescription",
+                      "back":  "n. 药方，处方；处方药"
+                  },
+                  {
+                      "front":  "cradle",
+                      "back":  "n. 摇篮；发源地"
+                  },
+                  {
+                      "front":  "waver",
+                      "back":  "v. 犹豫不决；摇摆"
+                  },
+                  {
+                      "front":  "wag",
+                      "back":  "v. （狗） 摇摆 （尾巴）；摇晃 （手指）"
+                  },
+                  {
+                      "front":  "oxide",
+                      "back":  "n. 氧化物"
+                  },
+                  {
+                      "front":  "oxidize",
+                      "back":  "v. 氧化，使生锈"
+                  },
+                  {
+                      "front":  "balcony",
+                      "back":  "n. 阳台；楼厅，楼座"
+                  },
+                  {
+                      "front":  "anode",
+                      "back":  "n. 阳极，正极，板极"
+                  },
+                  {
+                      "front":  "proverb",
+                      "back":  "n. 谚语，格言，箴言"
+                  },
+                  {
+                      "front":  "banquet",
+                      "back":  "n. 宴会，盛会，酒席"
+                  },
+                  {
+                      "front":  "scope",
+                      "back":  "n. （学科、活动、书籍等的）范围；（发挥能力的）机会，施展余地；眼界"
+                  },
+                  {
+                      "front":  "cloak",
+                      "back":  "v. 掩盖，掩饰；覆盖，笼罩"
+                  },
+                  {
+                      "front":  "sharply",
+                      "back":  "adv. 严厉地，苛刻地"
+                  },
+                  {
+                      "front":  "retard",
+                      "back":  "v. 阻碍；减缓；放慢"
+                  },
+                  {
+                      "front":  "pickle",
+                      "back":  "n. 腌制食品，泡菜"
+                  },
+                  {
+                      "front":  "dentist",
+                      "back":  "n. 牙科医生"
+                  },
+                  {
+                      "front":  "opium",
+                      "back":  "n. 鸦片；麻醉剂"
+                  },
+                  {
+                      "front":  "squeeze",
+                      "back":  "v. 压榨；榨取"
+                  },
+                  {
+                      "front":  "compression",
+                      "back":  "n. 压缩，压紧，浓缩"
+                  },
+                  {
+                      "front":  "squash",
+                      "back":  "v. 压碎; n. 果汁饮料"
+                  },
+                  {
+                      "front":  "velocity",
+                      "back":  "n. 迅速，快速"
+                  },
+                  {
+                      "front":  "patrol",
+                      "back":  "n. 巡逻，巡查"
+                  },
+                  {
+                      "front":  "cruise",
+                      "back":  "v. 巡航，巡航于…"
+                  },
+                  {
+                      "front":  "quest",
+                      "back":  "v. 寻找，追求"
+                  },
+                  {
+                      "front":  "cigar",
+                      "back":  "n. 雪茄烟，叶卷烟"
+                  },
+                  {
+                      "front":  "scholarship",
+                      "back":  "n. 奖学金；学问，学识"
+                  },
+                  {
+                      "front":  "radiant",
+                      "back":  "adj. 容光焕发的；灿烂的"
+                  },
+                  {
+                      "front":  "gorgeous",
+                      "back":  "adj. 极其漂亮的，极其吸引人的；绚丽的，华丽的"
+                  }
+              ]
+}

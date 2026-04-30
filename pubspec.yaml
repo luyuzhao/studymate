@@ -1,0 +1,63 @@
+name: studymate
+description: "StudyMate Pro - 全能学习效率伴侣，集课程管理、任务待办、番茄专注、闪卡记忆、笔记、习惯打卡、记账于一体的跨平台学习应用。"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Design - UI组件和设计相关
+  cupertino_icons: ^1.0.8          # iOS 风格图标
+  google_fonts: ^6.2.1             # Google 字体 (Noto Sans SC 中文)
+  flutter_staggered_animations: ^1.1.1  # 列表入场动画
+  shimmer: ^3.0.0                  # 骨架屏加载效果
+  lottie: ^3.1.2                   # Lottie 动画播放
+  percent_indicator: ^4.2.3        # 圆形/线性进度指示器
+  flutter_animate: ^4.5.0          # 声明式动画（入场/微交互）
+  animations: ^2.0.11              # Material 页面过渡动画
+
+  # State Management - 状态管理
+  flutter_riverpod: ^2.5.1         # Riverpod 响应式状态管理
+
+  # Local Storage - 本地数据持久化
+  hive: ^2.2.3                     # Hive NoSQL 本地数据库
+  hive_flutter: ^1.1.0             # Hive Flutter 适配层
+  sqflite: ^2.3.3                  # SQLite 数据库（移动端）
+  sqflite_common_ffi: ^2.3.3+1     # SQLite FFI（桌面端）
+  sqlite3_flutter_libs: ^0.5.24    # SQLite 原生库
+  sqlite3: '>=2.0.0 <3.0.0'       # 锁定v2避免v3的build hook需要下载
+
+  # Charts & Visualization - 图表可视化
+  fl_chart: ^0.68.0                # 饼图/柱状图/折线图
+
+  # Date & Time - 日期时间处理
+  intl: ^0.19.0                    # 国际化，日期格式化
+  table_calendar: ^3.1.2           # 日历组件
+
+  # Utilities - 工具类
+  uuid: ^4.4.2                     # UUID 唯一标识生成
+  collection: ^1.18.0              # 集合操作工具
+  path_provider: ^2.1.4            # 系统路径获取
+  path: ^1.9.0                     # 文件路径操作工具
+  crypto: ^3.0.3                   # 密码加盐哈希 (SHA-256)
+  image_picker: ^1.0.7             # 图片选择器（头像上传）
+  google_mlkit_text_recognition: ^0.13.1  # OCR 文字识别
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0            # 代码规范检查
+  hive_generator: ^2.0.1           # Hive 适配器生成器(可选,已手写)
+  build_runner: ^2.4.12            # 代码生成运行器(可选,已手写)
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/lottie/
+    - assets/data/
