@@ -28,3 +28,7 @@ ios/Flutter/Generated.xcconfig
 *.g.dart.bak
 .pub-cache/
 .pub/
+
+*.apk
+*.aab
+
