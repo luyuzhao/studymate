@@ -7,6 +7,7 @@ import '../../models/flashcard.dart';
 import 'flashcard_study_page.dart';
 import 'flashcard_edit_page.dart';
 import 'preset_decks_page.dart';
+import 'word_store_page.dart';
 
 class FlashcardListPage extends ConsumerWidget {
   const FlashcardListPage({super.key});
@@ -19,10 +20,10 @@ class FlashcardListPage extends ConsumerWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('闪卡记忆'), actions: [
         IconButton(
-          icon: const Icon(Icons.library_books_outlined),
-          tooltip: '预置题库',
+          icon: const Icon(Icons.store_rounded),
+          tooltip: '词库商店',
           onPressed: () => Navigator.push(
-            context, MaterialPageRoute(builder: (_) => const PresetDecksPage()))),
+            context, MaterialPageRoute(builder: (_) => const WordStorePage()))),
       ]),
       body: decks.isEmpty
           ? Center(child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [

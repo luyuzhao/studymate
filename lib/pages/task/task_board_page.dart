@@ -29,12 +29,19 @@ class _TaskBoardPageState extends ConsumerState<TaskBoardPage> with SingleTicker
 
     return Scaffold(
       appBar: AppBar(title: const Text('任务待办'),
-        bottom: TabBar(controller: _tabCtrl, isScrollable: true, tabs: [
-          Tab(text: '建议 (${suggested.length})'),
-          Tab(text: '待做 (${todo.length})'),
-          Tab(text: '进行中 (${doing.length})'),
-          Tab(text: '已完成 (${done.length})'),
-        ])),
+        bottom: TabBar(
+          controller: _tabCtrl,
+          isScrollable: false,
+          labelPadding: const EdgeInsets.symmetric(horizontal: 4),
+          labelStyle: const TextStyle(fontSize: 13, fontWeight: FontWeight.w600),
+          unselectedLabelStyle: const TextStyle(fontSize: 13),
+          tabs: [
+            Tab(text: '建议 (${suggested.length})'),
+            Tab(text: '待做 (${todo.length})'),
+            Tab(text: '进行中 (${doing.length})'),
+            Tab(text: '已完成 (${done.length})'),
+          ],
+        )),
       body: TabBarView(controller: _tabCtrl, children: [
         _suggestList(suggested),
         _list(todo, '暂无待做任务'),

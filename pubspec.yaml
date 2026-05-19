@@ -45,6 +45,7 @@ dependencies:
   path: ^1.9.0                     # 文件路径操作工具
   crypto: ^3.0.3                   # 密码加盐哈希 (SHA-256)
   image_picker: ^1.0.7             # 图片选择器（头像上传）
+  http: ^1.2.1                     # HTTP 网络请求（在线词库下载）
   google_mlkit_text_recognition: ^0.13.1  # OCR 文字识别
 
 dev_dependencies:

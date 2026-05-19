@@ -411,11 +411,13 @@ class _SettingsItem extends StatelessWidget {
           Icon(icon, size: 20, color: iconColor),
           const SizedBox(width: 14),
           Expanded(child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Text(title, style: theme.textTheme.bodyMedium?.copyWith(
-              color: titleColor, fontWeight: FontWeight.w500)),
+            Text(title, maxLines: 1, overflow: TextOverflow.ellipsis,
+              style: theme.textTheme.bodyMedium?.copyWith(
+                color: titleColor, fontWeight: FontWeight.w500)),
             if (subtitle != null)
-              Text(subtitle!, style: theme.textTheme.bodySmall?.copyWith(
-                color: cs.onSurface.withValues(alpha: 0.4), fontSize: 12)),
+              Text(subtitle!, maxLines: 1, overflow: TextOverflow.ellipsis,
+                style: theme.textTheme.bodySmall?.copyWith(
+                  color: cs.onSurface.withValues(alpha: 0.4), fontSize: 12)),
           ])),
           if (trailing != null) trailing!
           else if (onTap != null)

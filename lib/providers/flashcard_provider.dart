@@ -1,5 +1,6 @@
 // AI生成 - 闪卡记忆状态管理（Anki 风格 SM-2 + 实时掌握度统计）
 import 'dart:convert';
+import 'dart:io';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:hive_flutter/hive_flutter.dart';
@@ -130,6 +131,117 @@ class FlashcardNotifier extends StateNotifier<List<FlashcardDeck>> {
     deck.cards = cards;
     await _box.put(deck.id, deck);
     _loadDecks();
+  }
+
+  /// 从 JSON 字符串导入卡组（在线下载后使用）
+  Future<int> importFromJsonString(String jsonStr) async {
+    final data = json.decode(jsonStr) as Map<String, dynamic>;
+    final name = data['name'] as String;
+    final colorHex = data['color'] as String? ?? '#27AE60';
+    final colorValue = int.parse('0xFF${colorHex.replaceFirst('#', '')}');
+    final cardsData = data['cards'] as List<dynamic>;
+    final cards = cardsData.map((c) => Flashcard(
+      id: _uuid.v4(),
+      front: c['front'] as String,
+      back: c['back'] as String,
+    )).toList();
+    final deck = FlashcardDeck(
+      id: _uuid.v4(), name: name, colorValue: colorValue, userId: _userId,
+    );
+    deck.cards = cards;
+    await _box.put(deck.id, deck);
+    _loadDecks();
+    return cards.length;
+  }
+
+  /// 从纯文本导入卡组（支持多种 TXT / CSV 格式）
+  /// 识别顺序：词典格式(word [音标] 释义) → tab分隔 → 逗号分隔 → 空格+中文 → 每行一词
+  Future<int> importFromText(String text, {String? deckName}) async {
+    final lines = text
+        .split(RegExp(r'\r?\n'))
+        .map((l) => l.trim())
+        .where((l) => l.isNotEmpty && !l.startsWith('#') && !l.startsWith('//'))
+        .toList();
+    if (lines.isEmpty) throw Exception('文本为空，没有找到单词');
+
+    // 词典格式正则：word [音标] 释义
+    final dictRe = RegExp(r'^([a-zA-Z][a-zA-Z\s\-]*?)\s*\[([^\]]+)\]\s*(.*)$');
+
+    final cards = <Flashcard>[];
+    for (final line in lines) {
+      String front, back;
+
+      // 1) 词典格式：word [phonetic] pos. definition
+      final dictMatch = dictRe.firstMatch(line);
+      if (dictMatch != null) {
+        front = dictMatch.group(1)!.trim();
+        final phonetic = dictMatch.group(2)!.trim();
+        final def = dictMatch.group(3)?.trim() ?? '';
+        back = '[$phonetic] $def';
+      }
+      // 2) Tab 分隔
+      else if (line.contains('\t')) {
+        final parts = line.split('\t');
+        front = parts[0].trim();
+        back = parts.sublist(1).join(' ').trim();
+      }
+      // 3) 单词 + 中文释义（空格后紧跟中文/词性标记）
+      else {
+        final m = RegExp(r'^([a-zA-Z][a-zA-Z\-]*)\s+(.+)$').firstMatch(line);
+        if (m != null) {
+          front = m.group(1)!.trim();
+          back = m.group(2)!.trim();
+        } else {
+          front = line;
+          back = '';
+        }
+      }
+      if (front.isNotEmpty) {
+        cards.add(Flashcard(id: _uuid.v4(), front: front, back: back));
+      }
+    }
+    if (cards.isEmpty) throw Exception('未能解析出有效单词');
+
+    final name = deckName ?? '导入词库 (${cards.length}词)';
+    final deck = FlashcardDeck(
+      id: _uuid.v4(), name: name, colorValue: 0xFF2196F3, userId: _userId,
+    );
+    deck.cards = cards;
+    await _box.put(deck.id, deck);
+    _loadDecks();
+    return cards.length;
+  }
+
+  /// 从 URL 下载并导入（自动识别 JSON / TXT）
+  Future<int> importFromUrl(String url) async {
+    final uri = Uri.parse(url);
+    final response = await _httpGet(uri);
+    if (response == null) throw Exception('下载失败，请检查网络');
+    final trimmed = response.trimLeft();
+    // 自动判断：以 { 或 [ 开头 → JSON，否则 → TXT
+    if (trimmed.startsWith('{') || trimmed.startsWith('[')) {
+      return importFromJsonString(trimmed);
+    } else {
+      // 从 URL 提取文件名作为卡组名
+      final fileName = Uri.decodeFull(uri.pathSegments.isNotEmpty ? uri.pathSegments.last : 'words')
+          .replaceAll(RegExp(r'\.\w+$'), '');
+      return importFromText(trimmed, deckName: fileName);
+    }
+  }
+
+  /// HTTP GET 请求（兼容中国网络）
+  static Future<String?> _httpGet(Uri uri) async {
+    try {
+      final request = await HttpClient().getUrl(uri);
+      request.headers.set('Accept', '*/*');
+      final response = await request.close().timeout(const Duration(seconds: 30));
+      if (response.statusCode == 200) {
+        return await response.transform(utf8.decoder).join();
+      }
+      return null;
+    } catch (_) {
+      return null;
+    }
   }
 
   bool isDeckImported(String name) => state.any((d) => d.name == name);

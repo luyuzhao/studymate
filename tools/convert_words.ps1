@@ -1,4 +1,5 @@
-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+﻿[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+[Console]::InputEncoding = [System.Text.Encoding]::UTF8
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $outputDir = Join-Path (Split-Path -Parent $scriptDir) "assets\data"
 if (-not (Test-Path $outputDir)) { New-Item -ItemType Directory -Path $outputDir -Force | Out-Null }
@@ -39,8 +40,8 @@ function Convert-WordList {
     Write-Host "  Saved: $OutputFile" -ForegroundColor Green
 }
 
-Convert-WordList -Url "https://raw.githubusercontent.com/KyleBing/english-vocabulary/master/json_original/json-simple/CET6_1.json" -OutputFile (Join-Path $outputDir "cet6_words.json") -Name $([char]0x82F1 + [char]0x8BED + [char]0x516D + [char]0x7EA7 + [char]0x6838 + [char]0x5FC3 + [char]0x8BCD + [char]0x6C47) -Desc "CET-6 English Vocabulary" -Icon "language" -Color "#1565C0" -Max 1500
+Convert-WordList -Url "https://raw.githubusercontent.com/KyleBing/english-vocabulary/master/json_original/json-simple/CET6_1.json" -OutputFile (Join-Path $outputDir "cet6_words.json") -Name "英语六级核心词汇" -Desc "CET-6 English Vocabulary" -Icon "language" -Color "#1565C0" -Max 1500
 
-Convert-WordList -Url "https://raw.githubusercontent.com/KyleBing/english-vocabulary/master/json_original/json-simple/KaoYan_1.json" -OutputFile (Join-Path $outputDir "postgrad_words.json") -Name $([char]0x8003 + [char]0x7814 + [char]0x82F1 + [char]0x8BED + [char]0x6838 + [char]0x5FC3 + [char]0x8BCD + [char]0x6C47) -Desc "Postgrad English Vocabulary" -Icon "school" -Color "#C62828" -Max 1500
+Convert-WordList -Url "https://raw.githubusercontent.com/KyleBing/english-vocabulary/master/json_original/json-simple/KaoYan_1.json" -OutputFile (Join-Path $outputDir "postgrad_words.json") -Name "考研英语核心词汇" -Desc "Postgrad English Vocabulary" -Icon "school" -Color "#C62828" -Max 1500
 
 Write-Host "Done!" -ForegroundColor Yellow

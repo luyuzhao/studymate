@@ -21,9 +21,9 @@ class _OcrImportPageState extends ConsumerState<OcrImportPage> {
   File? _imageFile;
   String _errorMsg = '';
 
-  /// 懒初始化识别器，优先中文，失败则回退拉丁
+  /// 初始化 Latin 识别器（内置模型，离线可用）
   TextRecognizer _getRecognizer() {
-    _recognizer ??= TextRecognizer(script: TextRecognitionScript.chinese);
+    _recognizer ??= TextRecognizer(script: TextRecognitionScript.latin);
     return _recognizer!;
   }
 
@@ -49,23 +49,8 @@ class _OcrImportPageState extends ConsumerState<OcrImportPage> {
       setState(() => _imageFile = File(picked.path));
 
       final inputImage = InputImage.fromFilePath(picked.path);
-
-      // 尝试中文识别
-      String text = '';
-      try {
-        final result = await _getRecognizer().processImage(inputImage);
-        text = result.text;
-      } catch (_) {
-        // 中文模型失败，回退到默认拉丁识别
-        _recognizer?.close();
-        _recognizer = TextRecognizer();
-        try {
-          final result = await _recognizer!.processImage(inputImage);
-          text = result.text;
-        } catch (e2) {
-          throw Exception('文字识别失败: $e2');
-        }
-      }
+      final result = await _getRecognizer().processImage(inputImage);
+      final text = result.text;
 
       if (!mounted) return;
       setState(() {
@@ -289,7 +274,7 @@ class _OcrImportPageState extends ConsumerState<OcrImportPage> {
                     Text('拍照或选择图片以识别文字',
                         style: TextStyle(color: cs.onSurfaceVariant)),
                     const SizedBox(height: 4),
-                    Text('支持中英文混合识别',
+                    Text('支持英文和数字识别',
                         style: theme.textTheme.bodySmall
                             ?.copyWith(color: cs.onSurfaceVariant.withValues(alpha: 0.5))),
                   ]),
