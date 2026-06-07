@@ -139,7 +139,7 @@ class _TaskBoardPageState extends ConsumerState<TaskBoardPage> with SingleTicker
         ])))));
   }
 
-  /// 任务详情弹窗：含子任务 Checklist
+  /// 任务详情弹窗：含子任务 Checklist + 编辑/删除
   void _showTaskDetail(BuildContext context, Task task) {
     showModalBottomSheet(context: context, isScrollControlled: true,
       builder: (ctx) => StatefulBuilder(builder: (ctx, setBS) {
@@ -147,7 +147,13 @@ class _TaskBoardPageState extends ConsumerState<TaskBoardPage> with SingleTicker
         return DraggableScrollableSheet(
           initialChildSize: 0.6, minChildSize: 0.3, maxChildSize: 0.9, expand: false,
           builder: (_, scrollCtrl) => ListView(controller: scrollCtrl, padding: const EdgeInsets.all(24), children: [
-            Text(task.title, style: Theme.of(ctx).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold)),
+            Row(children: [
+              Expanded(child: Text(task.title, style: Theme.of(ctx).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold))),
+              IconButton(icon: const Icon(Icons.edit_outlined), tooltip: '编辑',
+                onPressed: () { Navigator.pop(ctx); _showEditDialog(context, task); }),
+              IconButton(icon: Icon(Icons.delete_outline, color: Theme.of(ctx).colorScheme.error), tooltip: '删除',
+                onPressed: () => _confirmDelete(ctx, task)),
+            ]),
             if (task.description.isNotEmpty) ...[const SizedBox(height: 8), Text(task.description, style: Theme.of(ctx).textTheme.bodyMedium)],
             if (task.isRecurring) ...[const SizedBox(height: 8),
               Chip(avatar: const Icon(Icons.repeat, size: 16), label: Text(task.repeatType == 1 ? '每${task.repeatInterval}天重复' : '每${task.repeatInterval}周重复'))],
@@ -177,9 +183,82 @@ class _TaskBoardPageState extends ConsumerState<TaskBoardPage> with SingleTicker
                 subCtrl.clear(); setBS(() {});
               }),
             ]),
+            const SizedBox(height: 16),
+            SizedBox(width: double.infinity, child: OutlinedButton.icon(
+              icon: Icon(Icons.delete_outline, color: Theme.of(ctx).colorScheme.error),
+              label: Text('删除任务', style: TextStyle(color: Theme.of(ctx).colorScheme.error)),
+              onPressed: () => _confirmDelete(ctx, task),
+            )),
           ]),
         );
       }));
+  }
+
+  Future<void> _confirmDelete(BuildContext ctx, Task task) async {
+    final ok = await showDialog<bool>(context: ctx,
+      builder: (c) => AlertDialog(title: const Text('删除任务'), content: Text('确定删除 "${task.title}" 吗？此操作不可撤销。'),
+        actions: [TextButton(onPressed: () => Navigator.pop(c, false), child: const Text('取消')),
+          FilledButton(onPressed: () => Navigator.pop(c, true), child: const Text('删除'))]));
+    if (ok == true && ctx.mounted) {
+      ref.read(taskProvider.notifier).deleteTask(task.id);
+      Navigator.pop(ctx);
+    }
+  }
+
+  void _showEditDialog(BuildContext context, Task task) {
+    final titleCtrl = TextEditingController(text: task.title);
+    final descCtrl = TextEditingController(text: task.description);
+    int priority = task.priority; DateTime? dueDate = task.dueDate;
+    String? courseId = task.courseId;
+    int repeatType = task.repeatType; int repeatInterval = task.repeatInterval;
+    final courses = ref.read(courseProvider);
+
+    showModalBottomSheet(context: context, isScrollControlled: true,
+      builder: (ctx) => StatefulBuilder(builder: (ctx, setState) => Padding(
+        padding: EdgeInsets.only(left: 24, right: 24, top: 16, bottom: MediaQuery.of(ctx).viewInsets.bottom + 24),
+        child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
+          Text('编辑任务', style: Theme.of(ctx).textTheme.titleLarge),
+          const SizedBox(height: 16),
+          TextField(controller: titleCtrl, decoration: const InputDecoration(labelText: '任务标题 *'), autofocus: true),
+          const SizedBox(height: 12),
+          TextField(controller: descCtrl, decoration: const InputDecoration(labelText: '描述 (可选)'), maxLines: 2),
+          const SizedBox(height: 12),
+          Row(children: [const Text('优先级: '), const SizedBox(width: 8),
+            ChoiceChip(label: const Text('低'), selected: priority == 0, onSelected: (_) => setState(() => priority = 0)),
+            const SizedBox(width: 8), ChoiceChip(label: const Text('中'), selected: priority == 1, onSelected: (_) => setState(() => priority = 1)),
+            const SizedBox(width: 8), ChoiceChip(label: const Text('高'), selected: priority == 2, onSelected: (_) => setState(() => priority = 2))]),
+          const SizedBox(height: 12),
+          ListTile(contentPadding: EdgeInsets.zero, leading: const Icon(Icons.calendar_today),
+            title: Text(dueDate != null ? DateFormat('yyyy-MM-dd HH:mm').format(dueDate!) : '设置截止日期'),
+            onTap: () async {
+              final d = await showDatePicker(context: ctx, initialDate: dueDate ?? DateTime.now().add(const Duration(days: 1)), firstDate: DateTime.now(), lastDate: DateTime.now().add(const Duration(days: 365)));
+              if (d != null && ctx.mounted) { final t = await showTimePicker(context: ctx, initialTime: TimeOfDay.fromDateTime(dueDate ?? DateTime.now()));
+                setState(() => dueDate = DateTime(d.year, d.month, d.day, t?.hour ?? 0, t?.minute ?? 0)); }
+            }),
+          Row(children: [const Icon(Icons.repeat, size: 20), const SizedBox(width: 8), const Text('重复: '), const SizedBox(width: 8),
+            ChoiceChip(label: const Text('不重复'), selected: repeatType == 0, onSelected: (_) => setState(() => repeatType = 0)),
+            const SizedBox(width: 6), ChoiceChip(label: const Text('每天'), selected: repeatType == 1, onSelected: (_) => setState(() => repeatType = 1)),
+            const SizedBox(width: 6), ChoiceChip(label: const Text('每周'), selected: repeatType == 2, onSelected: (_) => setState(() => repeatType = 2)),
+          ]),
+          if (courses.isNotEmpty) ...[const SizedBox(height: 8),
+            DropdownButtonFormField<String?>(value: courseId, decoration: const InputDecoration(labelText: '关联课程 (可选)'),
+              items: [const DropdownMenuItem(value: null, child: Text('无')), ...courses.map((c) => DropdownMenuItem(value: c.id, child: Text(c.name)))],
+              onChanged: (v) => setState(() => courseId = v))],
+          const SizedBox(height: 20),
+          SizedBox(width: double.infinity, child: FilledButton(onPressed: () {
+            if (titleCtrl.text.trim().isEmpty) return;
+            task.title = titleCtrl.text.trim();
+            task.description = descCtrl.text.trim();
+            task.priority = priority;
+            task.dueDate = dueDate;
+            task.courseId = courseId;
+            task.repeatType = repeatType;
+            task.repeatInterval = repeatInterval;
+            ref.read(taskProvider.notifier).updateTask(task);
+            Navigator.pop(ctx);
+            setState(() {});
+          }, child: const Text('保存修改'))),
+        ]))));
   }
 
   void _showAddDialog(BuildContext context) {
