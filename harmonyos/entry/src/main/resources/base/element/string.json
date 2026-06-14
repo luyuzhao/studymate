@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "StudyMate Pro 鸿蒙演示版"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "StudyMate Pro 入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "StudyMate Pro"
+    }
+  ]
+}

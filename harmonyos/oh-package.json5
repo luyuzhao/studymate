@@ -1,0 +1,8 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "studymate-pro-harmonyos",
+  "version": "1.0.0",
+  "description": "StudyMate Pro - 鸿蒙演示版",
+  "license": "MIT",
+  "dependencies": {}
+}
